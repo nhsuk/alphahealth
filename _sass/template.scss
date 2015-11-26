@@ -9,14 +9,7 @@ body {
   @extend %contain-floats;
 
   .header-container {
-    max-width: 960px;
-    margin: 0 15px;
-    padding: 0;
-
-    @include media(tablet) {
-      margin: 0 auto;
-      padding: 0 30px;
-    }
+    @extend %site-width-container;
   }
 
   a.header-logo {
@@ -34,5 +27,18 @@ body {
       display: block;
       width: 90px;
     }
+  }
+}
+
+#content {
+  @extend %site-width-container;
+  @extend %contain-floats;
+
+  padding-top: 2rem;
+  padding-bottom: $gutter;
+
+  @include media(desktop) {
+    padding-top: 1rem;
+    padding-bottom: $gutter*3;
   }
 }
