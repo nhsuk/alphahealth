@@ -13,10 +13,10 @@ body {
     margin: 0 15px;
     padding: 0;
 
-//    @include media(tablet) {
-//      margin: 0 auto;
-//      padding: 0 30px;
-//    }
+    @include media(tablet) {
+      margin: 0 auto;
+      padding: 0 30px;
+    }
   }
 
   a.header-logo {
