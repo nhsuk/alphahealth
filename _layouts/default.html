@@ -9,8 +9,18 @@
     {% endif %}
     NHS.UK
   </title>
+
+  <link href="/public/stylesheets/nhsuk.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
 <body>
+
+<header role="banner" id="global-header">
+  <div class="header-container">
+    <a href="/" class="header-logo" title="Go to the NHS.UK homepage">
+      <img src="/public/images/nhs-logotype.svg" alt="">
+    </a>
+  </div>
+</header>
 
 {{ content }}
 

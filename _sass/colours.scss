@@ -1,0 +1,59 @@
+// NHS Colour palette, from http://www.nhsidentity.nhs.uk/
+// For tints, just use rgba( $color, .7 );
+$pure-black: #000000;
+$black: #231f20;
+$white: #ffffff;
+
+$grey-1: #667078;
+$grey-2: #b9d2dc;
+$grey-3: #dbe4f3;
+$grey-4: #eff3f5;
+
+$blue: #0072C6;
+$websafe-blue: #0066cc;
+$websafe-dark-green: #003300;
+$dark-green: #006647;
+$websafe-green: #009933;
+$green: #00953A;
+$websafe-light-green: #66cc33;
+$light-green: #77BC1F;
+$websafe-aqua-green: #009966;
+$aqua-green: #00A19B;
+$websafe-aqua-blue: #0099cc;
+$aqua-blue: #00A7CE;
+$websafe-light-blue: #0099ff;
+$light-blue: #0082CA;
+$websafe-dark-blue: #0066cc;
+$dark-blue: #002F87;
+$websafe-purple: #330099;
+$purple: #33006F;
+$websafe-dark-pink: #990066;
+$dark-pink: #9B004F;
+$websafe-dark-red: #990000;
+$dark-red: #8F1336;
+$websafe-red: #cc0000;
+$red: #E2231A;
+$websafe-orange: #ff6600;
+$orange: #F38B00;
+$websafe-yellow: #ffff00;
+$yellow: #FFED00;
+
+// Semantic colour names
+$link-colour: $blue;
+$link-active-colour: #2e8aca;
+$link-hover-colour: #2e8aca;
+$link-visited-colour: $blue;
+$button-colour: $light-green;
+$focus-colour: $yellow;
+$text-colour: $black;             // Standard text colour
+
+$secondary-text-colour: $grey-1;  // Section headers, help text etc.
+$border-colour: $grey-2;          // Borders, seperators, rules, keylines etc.
+$panel-colour: $grey-3;           // Related links panel, page footer etc.
+$canvas-colour: $grey-4;          // Page background
+$highlight-colour: $grey-4;       // Table stripes etc.
+
+$page-colour: $white;             // The page
+
+$error-colour: $red;              // Error text and border colour
+$error-background: #fef7f7;       // Error background colour
