@@ -41,4 +41,11 @@ body {
     padding-top: 1rem;
     padding-bottom: $gutter*3;
   }
+
+  h1 { @extend .heading-large; }
+  h2 { @extend .heading-medium; }
+  h3 { @extend .heading-small; }
+
+  ul { @extend .list-bullet; }
+  ol { @extend .list-number; }
 }

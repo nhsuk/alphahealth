@@ -7,4 +7,9 @@
 @import "shims";
 @import "measurements";
 
+@import "typography/variables";
+@import "typography/mixins";
+@import "typography/modular-scale";
+@import "typography/typography";
+
 @import "template";
