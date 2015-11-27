@@ -26,6 +26,8 @@
 </header>
 
 <nav class="condition-navigation">
+  <h1>{{ page.condition }}</h1>
+
   <ol>
     {% assign all_pages = site.pages | sort: "nav_order" %}
     {% for p in all_pages %}
