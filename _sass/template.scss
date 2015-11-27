@@ -8,10 +8,6 @@ body {
 
   @extend %contain-floats;
 
-  .header-container {
-    @extend %site-width-container;
-  }
-
   a.header-logo {
     display: block;
     float: left;
@@ -31,66 +27,31 @@ body {
 }
 
 .condition-navigation {
-  @extend %site-width-container;
   @extend %contain-floats;
 
   h1 { @extend .heading-xlarge; }
 
   ol {
     @extend %contain-floats;
-
-    counter-reset: section;
     font-size: 15px;
-    margin: 0;
-    padding: 0;
-
-    padding-bottom: 2rem;
-    margin-bottom: 1rem;
     border-bottom: 1px solid $border-colour;
   }
 
   li {
     white-space: nowrap;
-    margin-bottom: 0;
-    padding-bottom: 4px;
-  }
-
-  li:before {
-    counter-increment: section;
-    content: counter(section) ".";
-    margin-right: 0.5rem;
   }
 }
 
-#content {
-  @extend %site-width-container;
+.content {
   @extend %contain-floats;
-
-  padding-top: 2rem;
-  padding-bottom: $gutter;
-
-  @include media(desktop) {
-    padding-top: 1rem;
-    padding-bottom: $gutter*3;
-  }
-
-  h1 { @extend .heading-large; }
-  h2 { @extend .heading-medium; }
-  h3 { @extend .heading-small; }
-
-  ul { @extend .list-bullet; }
-  ol { @extend .list-number; }
 }
 
 .pagination {
-  @extend %site-width-container;
   @extend %contain-floats;
 
-  padding-top: 2rem;
-  margin-top: 2rem;
   border-top: 2px solid $border-colour;
 
-  @include breakpoint(break-1) {
+  @include media(large) {
     .previous-page,
     .next-page {
       float: left;
