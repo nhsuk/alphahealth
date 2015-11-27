@@ -30,6 +30,38 @@ body {
   }
 }
 
+.condition-navigation {
+  @extend %site-width-container;
+  @extend %contain-floats;
+
+  h1 { @extend .heading-xlarge; }
+
+  ol {
+    @extend %contain-floats;
+
+    counter-reset: section;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+
+    padding-bottom: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid $border-colour;
+  }
+
+  li {
+    white-space: nowrap;
+    margin-bottom: 0;
+    padding-bottom: 4px;
+  }
+
+  li:before {
+    counter-increment: section;
+    content: counter(section) ".";
+    margin-right: 0.5rem;
+  }
+}
+
 #content {
   @extend %site-width-container;
   @extend %contain-floats;
