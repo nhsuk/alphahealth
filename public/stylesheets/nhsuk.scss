@@ -3,15 +3,12 @@
 
 // Above is Jekyll YAML front matter. Kill it when we leave Jekyll.
 
+// Import variables
+@import "variables/colours";
+
+// Import mixins
+@import "mixins/media-queries";
+@import "mixins/contain-floats";
+
+// Imports
 @import "reset";
-@import "colours";
-@import "conditionals";
-@import "shims";
-@import "measurements";
-
-@import "typography/variables";
-@import "typography/mixins";
-@import "typography/modular-scale";
-@import "typography/typography";
-
-@import "template";
