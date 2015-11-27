@@ -1,6 +1,7 @@
 ---
 title: Food and keeping active
 condition: Type 2 diabetes
+nav_order: 6
 ---
 
 #Food and keeping active

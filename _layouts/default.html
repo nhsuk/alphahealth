@@ -25,6 +25,23 @@
   </div>
 </header>
 
+<nav class="condition-navigation">
+  <ol>
+    {% assign all_pages = site.pages | sort: "nav_order" %}
+    {% for p in all_pages %}
+      {% if p.condition == page.condition %}
+        <li>
+          {% if p.url == page.url %}
+            {{ p.title }}
+          {% else %}
+            <a href="{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</nav>
+
 <main id="content">
   {{ content }}
 </main>
