@@ -1,0 +1,48 @@
+/*
+  Note: fonts at the moment are being served by fonts.com
+  This will need to change ;)
+*/
+
+body {
+  font-family: "Frutiger Neue W01 Book", Verdana, sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+h1 {
+  font-family: "Frutiger Neue W01 Bd", Verdana, sans-serif;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 60px;
+  margin: 36px 0;
+}
+
+h2 {
+  font-family: "Frutiger Neue W01 Bd", Verdana, sans-serif;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 36px;
+  margin: 36px 0 24px 0;
+}
+
+h3 {
+  font-family: "Frutiger Neue W01 Bd", Verdana, sans-serif;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  margin: 36px 0 18px 0;
+}
+
+ul {
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+ol {
+  list-style-type: decimal;
+  list-style-position: outside;
+}
+
+li {
+  margin-left: 1.25em;
+}

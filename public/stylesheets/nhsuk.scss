@@ -10,5 +10,8 @@
 @import "mixins/media-queries";
 @import "mixins/contain-floats";
 
-// Imports
-@import "reset";
+// Global styles
+@import "global/reset";
+@import "global/base-typography";
+
+// Element styles
