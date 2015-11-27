@@ -29,17 +29,15 @@
   <h1>{{ page.condition }}</h1>
 
   <ol>
-    {% assign all_pages = site.pages | sort: "nav_order" %}
-    {% for p in all_pages %}
-      {% if p.condition == page.condition %}
-        <li>
-          {% if p.url == page.url %}
-            {{ p.title }}
-          {% else %}
-            <a href="{{ p.url }}">{{ p.title }}</a>
-          {% endif %}
-        </li>
-      {% endif %}
+    {% assign condition_pages = site.pages | where: "condition", page.condition | sort: "nav_order" %}
+    {% for p in condition_pages %}
+      <li>
+        {% if p.url == page.url %}
+          {{ p.title }}
+        {% else %}
+          <a href="{{ p.url }}">{{ p.title }}</a>
+        {% endif %}
+      </li>
     {% endfor %}
   </ol>
 </nav>
