@@ -81,3 +81,40 @@ body {
   ul { @extend .list-bullet; }
   ol { @extend .list-number; }
 }
+
+.pagination {
+  @extend %site-width-container;
+  @extend %contain-floats;
+
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: 2px solid $border-colour;
+
+  @include breakpoint(break-1) {
+    .previous-page,
+    .next-page {
+      float: left;
+      width: 50%;
+    }
+
+    .next-page {
+      float: right;
+      text-align: right;
+    }
+  }
+
+  a {
+    display: inline-block;
+    text-decoration: none !important;
+  }
+
+  .prefix {
+    font-size: 15px;
+    color: $text-colour;
+  }
+
+  .title {
+    display: block;
+    text-decoration: underline;
+  }
+}
