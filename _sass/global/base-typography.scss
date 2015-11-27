@@ -9,7 +9,7 @@ body {
   line-height: 24px;
 }
 
-h1 {
+.heading-xlarge {
   font-family: "Frutiger Neue W01 Bd", Verdana, sans-serif;
   font-weight: normal;
   font-size: 56px;
@@ -17,7 +17,7 @@ h1 {
   margin: 36px 0;
 }
 
-h2 {
+h1 {
   font-family: "Frutiger Neue W01 Bd", Verdana, sans-serif;
   font-weight: normal;
   font-size: 32px;
@@ -25,7 +25,7 @@ h2 {
   margin: 36px 0 24px 0;
 }
 
-h3 {
+h2 {
   font-family: "Frutiger Neue W01 Bd", Verdana, sans-serif;
   font-weight: normal;
   font-size: 26px;
@@ -33,16 +33,22 @@ h3 {
   margin: 36px 0 18px 0;
 }
 
+p {
+  margin: 18px 0;
+}
+
 ul {
+  margin-bottom: 18px;
   list-style-type: disc;
   list-style-position: outside;
 }
 
 ol {
+  margin-bottom: 18px;
   list-style-type: decimal;
   list-style-position: outside;
 }
 
 li {
-  margin-left: 1.25em;
+  margin: 0 0 6px 1.25em;
 }
