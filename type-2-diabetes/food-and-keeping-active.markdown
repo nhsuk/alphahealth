@@ -1,5 +1,6 @@
 ---
-title: Food and keeping active - Type 2 diabetes
+title: Food and keeping active
+condition: Type 2 diabetes
 ---
 
 #Food and keeping active
