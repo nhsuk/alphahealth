@@ -1,0 +1,54 @@
+---
+title: Getting diagnosed
+condition: Type 2 diabetes
+nav_order: 2
+---
+
+#Getting diagnosed
+Often type 2 diabetes is diagnosed by accident when you see your GP about something else and they ask for a blood or urine test.
+
+However, if you have any [symptoms](/type-2-diabetes/check-if-you-have-diabetes-type-2) you should go and see your GP straight away.
+
+##Before your diagnosis
+To find out if you have type 2 diabetes, you usually have to go through the following steps:
+
+1. Speak to your GP about your symptoms.
+2. If your GP thinks you might have diabetes they’ll check your urine and take some blood to check your blood sugar levels. It usually takes about 1 to 2 days for the results to come back.
+3. If the tests show that you have diabetes, your GP will ask you to come in again to explain what will happen next. You’ll most likely be also be [put on medication](/type-2-diabetes/type-2-diabetes-medicines) straight away.
+
+##If you’re diagnosed with diabetes
+If your blood test shows that you have diabetes, your GP will usually ask you to come in for another appointment.
+
+What they’ll talk to you about in the appointment depends on the diagnosis and the treatment they’ll recommend.
+
+Generally, they’ll talk to you about the following:
+
+- what diabetes is
+- what high blood sugar means for your health
+- what medication you’ll have to take
+- your diet and exercise
+- your lifestyle, eg alcohol and smoking
+
+Your GP will do their best to discuss the diagnosis to you but this first appointment might only be 10 to 15 minutes long.
+
+###If you have questions about your diagnosis
+It’s usually difficult to take everything in the GP tells you during the appointment.
+
+Talk to family and friends about what the GP told you and write down all the questions you have.
+
+Then make another [GP appointment](/book-an-appointment/start) and take your list of questions with you.
+
+###Dealing with confusion and shock after the diagnosis
+There’s also a lot of [information on diabetes](/type-2-diabetes/information-and-support-type-2-diabetes) available including how to find:
+
+- support groups
+- hospital courses about living with diabetes
+- online forums and chat rooms where people with diabetes discuss how they manage their condition
+
+##What happens after the diagnosis
+Usually the following things happen after your diagnosis:
+
+1. Your GP will prescribe [medication](/type-2-diabetes/type-2-diabetes-medicines). It might take some time for you to get used to the medication and to find the right amounts for you.
+2. You might need to make changes to your [diet and start being active](/type-2-diabetes/diet).
+3. You’ll have to watch your body for certain signs to avoid [other health problems](/type-2-diabetes/health-problems-caused-by-diabetes-type-2).
+4. You’ll have to go for [regular type 2 diabetes check ups](/type-2-diabetes/going-for-regular-diabetes-check-ups).

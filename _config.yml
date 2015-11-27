@@ -10,3 +10,5 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+permalink: /:path/:basename
