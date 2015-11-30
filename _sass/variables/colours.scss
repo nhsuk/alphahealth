@@ -28,8 +28,8 @@ $page-colour: $white;
 $text-colour: $black;
 
 $link-colour: $blue;
-$link-highlight-colour: tint($blue, 30%);
-$link-visited-colour: shade($blue, 30%);
+$link-highlight-colour: shade($blue, 25%);
+$link-visited-colour: $purple;
 
 $focus-colour: $yellow;
 
