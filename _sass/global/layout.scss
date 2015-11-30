@@ -1,0 +1,45 @@
+body {
+  background: $page-colour;
+}
+
+.block-container {
+  max-width: 960px;
+  padding: 0 5%;
+  margin: 0 auto;
+  @extend %contain-floats;
+}
+
+#global-header {
+  background-color: $blue;
+  border-bottom: 6px solid #e5f0f9;
+
+  @extend %contain-floats;
+
+  .header-container {
+    max-width: 960px;
+    padding: 0 5%;
+    margin: 0 auto;
+  }
+
+  a.header-logo {
+    display: block;
+    float: left;
+    width: 90px;
+    height: 36px;
+    margin: 15px 0 15px 0;
+
+    &:focus {
+      background-color: transparent;
+    }
+
+    img {
+      display: block;
+      width: 90px;
+    }
+  }
+}
+
+// Main content to have approx 65-75 character width
+.content-measure {
+  max-width: 34em;
+}
