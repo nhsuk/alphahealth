@@ -1,5 +1,4 @@
 // NHS Colour palette, from http://www.nhsidentity.nhs.uk/
-// For tints, just use rgba( $color, .7 );
 $pure-black: #000000;
 $black: #231f20;
 $white: #ffffff;
@@ -25,21 +24,13 @@ $orange: #F38B00;
 $yellow: #FFED00;
 
 // Semantic colour names
+$page-colour: $white;
+$text-colour: $black;
+
 $link-colour: $blue;
-$link-active-colour: #2e8aca;
-$link-hover-colour: #2e8aca;
-$link-visited-colour: $blue;
-$button-colour: $light-green;
+$link-highlight-colour: shade($blue, 25%);
+$link-visited-colour: $purple;
+
 $focus-colour: $yellow;
-$text-colour: $black;             // Standard text colour
 
-$secondary-text-colour: $grey-1;  // Section headers, help text etc.
 $border-colour: $grey-2;          // Borders, seperators, rules, keylines etc.
-$panel-colour: $grey-3;           // Related links panel, page footer etc.
-$canvas-colour: $grey-4;          // Page background
-$highlight-colour: $grey-4;       // Table stripes etc.
-
-$page-colour: $white;             // The page
-
-$error-colour: $red;              // Error text and border colour
-$error-background: #fef7f7;       // Error background colour
