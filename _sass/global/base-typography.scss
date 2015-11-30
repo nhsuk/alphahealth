@@ -23,7 +23,7 @@ body {
   font-family: "Frutiger Neue W01 Book", Arial, sans-serif;
   font-size: 18px;
   line-height: 24px;
-  color: $black;
+  color: $text-colour;
 }
 
 .heading-xlarge {
@@ -68,4 +68,25 @@ ol {
 
 li {
   margin: 0 0 6px 1.25em;
+}
+
+a {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.3);
+}
+
+a:focus {
+  background-color: $focus-colour;
+  outline: 3px solid $focus-colour;
+}
+
+a {
+  color: $link-colour;
+  text-decoration: underline;
+  cursor: pointer;
+}
+a:visited {
+  color: $link-visited-colour;
+}
+a:hover {
+  color: $link-highlight-colour;
 }
