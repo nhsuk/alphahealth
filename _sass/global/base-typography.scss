@@ -1,0 +1,71 @@
+/*
+  Note: fonts at the moment are being served by fonts.com
+  This will need to change ;)
+*/
+
+// https://github.com/typekit/webfontloader
+// Loading class
+.wf-loading {
+  letter-spacing: 0.25px;
+  .heading-xlarge,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: bold;
+    letter-spacing: 0.05px;
+  }
+}
+
+body {
+  font-family: "Frutiger Neue W01 Book", Arial, sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  color: $black;
+}
+
+.heading-xlarge {
+  font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 60px;
+  margin: 36px 0;
+}
+
+h1 {
+  font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 36px;
+  margin: 36px 0 24px 0;
+}
+
+h2 {
+  font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  margin: 36px 0 18px 0;
+}
+
+p {
+  margin: 18px 0;
+}
+
+ul {
+  margin-bottom: 18px;
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+ol {
+  margin-bottom: 18px;
+  list-style-type: decimal;
+  list-style-position: outside;
+}
+
+li {
+  margin: 0 0 6px 1.25em;
+}

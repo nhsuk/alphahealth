@@ -1,15 +1,21 @@
 ---
 ---
 
-@import "reset";
-@import "colours";
-@import "conditionals";
-@import "shims";
-@import "measurements";
+// Above is Jekyll YAML front matter. Kill it when we leave Jekyll.
 
-@import "typography/variables";
-@import "typography/mixins";
-@import "typography/modular-scale";
-@import "typography/typography";
+// Import variables
+@import "variables/colours";
+@import "variables/measurements";
 
-@import "template";
+// Import mixins
+@import "mixins/media-queries";
+@import "mixins/contain-floats";
+
+// Global styles
+@import "global/reset";
+@import "global/layout";
+@import "global/base-typography";
+
+// Modules
+@import "modules/pagination";
+@import "modules/condition-navigation";

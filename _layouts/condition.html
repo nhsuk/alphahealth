@@ -2,52 +2,58 @@
 layout: default
 ---
 
-<nav class="condition-navigation">
-  <h1>{{ page.condition }}</h1>
+<div class="block-container">
 
-  <ol>
-    {% assign condition_pages = site.pages | where: "condition", page.condition | sort: "nav_order" %}
-    {% for p in condition_pages %}
-      <li>
-        {% if p.url == page.url %}
-          {% assign this_page_index = forloop.index0 %}
-          {{ p.title }}
-        {% else %}
-          <a href="{{ p.url }}">{{ p.title }}</a>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ol>
-</nav>
+  <nav class="condition-navigation">
+    <h1>{{ page.condition }}</h1>
 
-<main id="content">
-  {{ content }}
-</main>
+    <ol>
+      {% assign condition_pages = site.pages | where: "condition", page.condition | sort: "nav_order" %}
+      {% for p in condition_pages %}
+        <li>
+          {% if p.url == page.url %}
+            {% assign this_page_index = forloop.index0 %}
+            {{ p.title }}
+          {% else %}
+            <a href="{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ol>
+  </nav>
 
-<nav class="pagination">
-  {% assign next_page_index = this_page_index | plus: 1 %}
-  {% assign next_page = condition_pages[next_page_index] %}
-
-  {% if this_page_index > 0 %}
-    {% assign prev_page_index = this_page_index | minus: 1 %}
-    {% assign prev_page = condition_pages[prev_page_index] %}
-  {% endif %}
-
-  {% if next_page %}
-    <div class="next-page">
-      <a href="{{ next_page.url }}">
-        <span class="prefix">Next page:</span>
-        <span class="title">{{ next_page.title }}</span>
-      </a>
+  <main id="content">
+    <div class="content-measure">
+      {{ content }}
     </div>
-  {% endif %}
+  </main>
 
-  {% if prev_page %}
-    <div class="previous-page">
-      <a href="{{ prev_page.url }}">
-        <span class="prefix">Previous page:</span>
-        <span class="title">{{ prev_page.title }}</span>
-      </a>
-    </div>
-  {% endif %}
-</nav>
+  <nav class="pagination">
+    {% assign next_page_index = this_page_index | plus: 1 %}
+    {% assign next_page = condition_pages[next_page_index] %}
+
+    {% if this_page_index > 0 %}
+      {% assign prev_page_index = this_page_index | minus: 1 %}
+      {% assign prev_page = condition_pages[prev_page_index] %}
+    {% endif %}
+
+    {% if next_page %}
+      <div class="next-page">
+        <a href="{{ next_page.url }}">
+          <span class="prefix">Next page:</span>
+          <span class="title">{{ next_page.title }}</span>
+        </a>
+      </div>
+    {% endif %}
+
+    {% if prev_page %}
+      <div class="previous-page">
+        <a href="{{ prev_page.url }}">
+          <span class="prefix">Previous page:</span>
+          <span class="title">{{ prev_page.title }}</span>
+        </a>
+      </div>
+    {% endif %}
+  </nav>
+
+</div>

@@ -1,0 +1,33 @@
+.pagination {
+  @extend %contain-floats;
+
+  border-top: 2px solid $border-colour;
+
+  @include media(large) {
+    .previous-page,
+    .next-page {
+      float: left;
+      width: 50%;
+    }
+
+    .next-page {
+      float: right;
+      text-align: right;
+    }
+  }
+
+  a {
+    display: inline-block;
+    text-decoration: none !important;
+  }
+
+  .prefix {
+    font-size: 15px;
+    color: $text-colour;
+  }
+
+  .title {
+    display: block;
+    text-decoration: underline;
+  }
+}
