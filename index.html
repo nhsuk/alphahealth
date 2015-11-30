@@ -1,0 +1,15 @@
+---
+---
+
+<main id="content">
+  <h1>NHS.UK Alpha</h1>
+
+  <h2>Conditions</h2>
+
+  <ul>
+    {% assign condition_pages = site.pages | where: "nav_order", 1 | sort: "condition" %}
+    {% for p in condition_pages %}
+      <li><a href="{{ p.url }}">{{ p.condition }}</a></li>
+    {% endfor %}
+  </ul>
+</main>
