@@ -35,9 +35,7 @@ The charity Diabetes UK has lots of  information on:
 ##Help with changing your diet
 If you find it hard to change your diet, a dietitian might be able to help.
 
-Talk to your GP or nurse if the cost could be covered through the NHS.
-
-[Find a dietitian](http://www.freelancedietitians.org/)
+Talk to your GP or nurse to see if the cost could be covered through the NHS.
 
 ##Keeping active
 Physical exercise helps lower your blood sugar level. You should aim for 2.5 hours of activity per week.

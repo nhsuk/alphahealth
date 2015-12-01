@@ -47,7 +47,6 @@ They can help with things like managing your diabetes on a daily basis, diet, ex
 
 ##Chat rooms for diabetes
 
-- [Healthful Chat](http://www.healthfulchat.org/diabetes-chat-room.html) - people connecting over diabetes or just to chat
 - [Diabetes Chat](http://www.diabetes.co.uk/diabetes-chat/) - offers scheduled chats with healthcare professionals or just the chance to talk to others
 - [tudiabetes](http://www.tudiabetes.org/) - health problems, medication, diabetes research, you need to register to use the chat room
 
