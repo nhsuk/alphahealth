@@ -1,20 +1,30 @@
 .condition-navigation {
   @extend %contain-floats;
+  @extend .content-measure;
 
   h1 { @extend .heading-xlarge; }
 
   ol {
-    @extend %contain-floats;
-
     font-size: map-get($type-small, small);
+    padding-bottom: 24px;
     border-bottom: 1px solid $border-colour;
 
     @include media(large) {
       font-size: map-get($type-large, small);
+      -webkit-columns: 2;
+      -moz-columns: 2;
+      columns: 2;
     }
   }
 
   li {
-    white-space: nowrap;
+    margin-bottom: 0;
+    padding-bottom: 6px;
+
+    @include media(large) {
+      -webkit-column-break-inside: avoid;
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
   }
 }
