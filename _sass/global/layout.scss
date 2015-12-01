@@ -6,7 +6,6 @@ body {
   max-width: 960px;
   padding: 0 5%;
   margin: 0 auto;
-  @extend %contain-floats;
 }
 
 #global-header {
@@ -16,9 +15,7 @@ body {
   @extend %contain-floats;
 
   .header-container {
-    max-width: 960px;
-    padding: 0 5%;
-    margin: 0 auto;
+    @extend .block-container;
   }
 
   a.header-logo {
@@ -40,8 +37,6 @@ body {
 }
 
 #global-footer {
-  @extend %contain-floats;
-
   background-color: $black;
   color: $grey-3;
   padding: 2rem 0;
@@ -59,9 +54,7 @@ body {
   }
 
   .footer-container {
-    max-width: 960px;
-    padding: 0 5%;
-    margin: 0 auto;
+    @extend .block-container;
   }
 }
 
