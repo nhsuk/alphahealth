@@ -70,6 +70,19 @@ h2 {
   }
 }
 
+h3, h4, h5, h6 {
+  font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
+  font-weight: normal;
+  font-size: map-get($type-small, body);
+  line-height: map-get($type-small, leading-body);
+  margin: 24px 0 18px 0;
+
+  @include media(large) {
+    font-size: map-get($type-large, body);
+    line-height: map-get($type-large, leading-body);
+  }
+}
+
 p {
   margin: 18px 0;
 }
