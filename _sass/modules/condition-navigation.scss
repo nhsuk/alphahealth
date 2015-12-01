@@ -5,7 +5,9 @@
 
   ol {
     @extend %contain-floats;
-    font-size: 15px;
+
+    font-size: map-get($type-large, small);
+
     border-bottom: 1px solid $border-colour;
   }
 
