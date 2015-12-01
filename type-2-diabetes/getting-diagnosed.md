@@ -36,7 +36,7 @@ It’s usually difficult to take everything in the GP tells you during the appoi
 
 Talk to family and friends about what the GP told you and write down all the questions you have.
 
-Then make another [GP appointment](/book-an-appointment/start) and take your list of questions with you.
+Then make another GP appointment and take your list of questions with you.
 
 ###Dealing with confusion and shock after the diagnosis
 There’s also a lot of [information on diabetes](/type-2-diabetes/further-information-and-support) available including how to find:
