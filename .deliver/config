@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# See https://github.com/gerhard/deliver for details
+
+STRATEGY="s3"
+S3_BUCKET="alpha.nhs.uk"
+S3CMD_OPTIONS="--access_key $AWS_ACCESS_KEY --secret_key $AWS_SECRET_KEY --config .deliver/s3cfg sync --delete-removed"
+
+# Generate the site with jekyll before delivering
+ASSETS_DIR="_deploy/"
+GENERATE_CMD="jekyll build --destination $ASSETS_DIR && find $ASSETS_DIR -name '*.html' | sed -e 's/.html$//' | while read file; do mv \$file{.html,}; done"
