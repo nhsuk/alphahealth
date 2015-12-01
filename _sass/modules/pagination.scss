@@ -1,18 +1,26 @@
 .pagination {
   @extend %contain-floats;
+  @extend .content-measure;
 
+  margin: 36px 0;
+  padding-top: 18px;
   border-top: 2px solid $border-colour;
 
+  .previous-page {
+    margin-top: 12px;
+  }
+
   @include media(large) {
-    .previous-page,
-    .next-page {
+
+    .previous-page {
+      margin-top: 0;
       float: left;
       width: 50%;
     }
-
     .next-page {
       float: right;
       text-align: right;
+      width: 50%;
     }
   }
 
@@ -22,8 +30,12 @@
   }
 
   .prefix {
-    font-size: 15px;
+    font-size: map-get($type-small, xsmall);
     color: $text-colour;
+
+    @include media(large) {
+      font-size: map-get($type-large, xsmall);
+    }
   }
 
   .title {
