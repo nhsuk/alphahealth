@@ -7,7 +7,7 @@ nav_order: 5
 #Health problems#
 You need to watch your health and have regular check-ups if you have diabetes because high blood sugar can cause other problems and lead to:
 
-- [heart disease](http://www.nhs.uk/conditions/coronary-heart-disease/pages/introduction.aspx) and [stroke](http://www.nhs.uk/conditions/coronary-heart-disease/pages/introduction.aspx)
+- [heart disease](http://www.nhs.uk/conditions/coronary-heart-disease/pages/introduction.aspx) and [stroke](http://www.nhs.uk/Conditions/Stroke/Pages/Introduction.aspx)
 - loss of feeling and pain (nerve damage) - causing problems with sex
 - foot problems - sores and infections
 - vision loss and blindness
