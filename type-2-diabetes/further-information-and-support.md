@@ -67,4 +67,4 @@ Some people choose to wear a special wristband or carry something in their walle
 
 Knowing you have diabetes can make a difference to the treatment you’ll be given.
 
-Google ‘medical ID’ to find a website that sells them.
+Search the internet for ‘medical ID’ to find a website that sells them.
