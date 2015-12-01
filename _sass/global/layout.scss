@@ -39,6 +39,32 @@ body {
   }
 }
 
+#global-footer {
+  @extend %contain-floats;
+
+  background-color: $black;
+  color: $grey-3;
+  padding: 2rem 0;
+  border-top: 6px solid $grey-1;
+  font-size: map-get($type-small, xsmall);
+  line-height: map-get($type-small, leading-xsmall);
+
+  @include media(large) {
+    font-size: map-get($type-large, xsmall);
+    line-height: map-get($type-large, leading-xsmall);
+  }
+
+  a {
+    color: $grey-3;
+  }
+
+  .footer-container {
+    max-width: 960px;
+    padding: 0 5%;
+    margin: 0 auto;
+  }
+}
+
 // Main content to have approx 65-75 character width
 .content-measure {
   max-width: 34em;
