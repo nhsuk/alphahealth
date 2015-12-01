@@ -60,7 +60,7 @@ You have these checks once a year.
   </a>
 </p>
 
-[Why it’s important to have these check ups](#)
+[Why it’s important to have these check ups](/type-2-diabetes/health-problems)
 
 ## What happens after your appointment
 

@@ -28,7 +28,7 @@ The charity Diabetes UK has lots of  information on:
 
 <div class="callout-box">
   <p>
-    Once a year you should go for a <a href="/type-2-diabetes/going-for-regular-diabetes-check-ups">regular diabetes check</a> to make sure your blood pressure and your cholesterol (blood fats) level are ok.
+    Once a year you should go for a <a href="/type-2-diabetes/going-for-regular-check-ups">regular diabetes check</a> to make sure your blood pressure and your cholesterol (blood fats) level are ok.
   </p>
 </div>
 
