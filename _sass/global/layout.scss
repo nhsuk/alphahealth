@@ -1,3 +1,7 @@
+html {
+  background-color: $black;
+}
+
 body {
   background: $page-colour;
 }
@@ -6,7 +10,6 @@ body {
   max-width: 960px;
   padding: 0 5%;
   margin: 0 auto;
-  @extend %contain-floats;
 }
 
 #global-header {
@@ -16,9 +19,7 @@ body {
   @extend %contain-floats;
 
   .header-container {
-    max-width: 960px;
-    padding: 0 5%;
-    margin: 0 auto;
+    @extend .block-container;
   }
 
   a.header-logo {
@@ -36,6 +37,28 @@ body {
       display: block;
       width: 90px;
     }
+  }
+}
+
+#global-footer {
+  background-color: $black;
+  color: $grey-3;
+  padding: 2rem 0;
+  border-top: 6px solid $grey-1;
+  font-size: map-get($type-small, xsmall);
+  line-height: map-get($type-small, leading-xsmall);
+
+  @include media(large) {
+    font-size: map-get($type-large, xsmall);
+    line-height: map-get($type-large, leading-xsmall);
+  }
+
+  a {
+    color: $grey-3;
+  }
+
+  .footer-container {
+    @extend .block-container;
   }
 }
 
