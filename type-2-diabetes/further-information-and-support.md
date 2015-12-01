@@ -48,7 +48,7 @@ They can help with things like managing your diabetes on a daily basis, diet, ex
 ##Chat rooms for diabetes
 
 - [Diabetes Chat](http://www.diabetes.co.uk/diabetes-chat/) - offers scheduled chats with healthcare professionals or just the chance to talk to others
-- [tudiabetes](http://www.tudiabetes.org/) - health problems, medication, diabetes research, you need to register to use the chat room
+- [TuDiabetes](http://www.tudiabetes.org/) - health problems, medication, diabetes research, you need to register to use the chat room
 
 ##Eating with type 2 diabetes
 
