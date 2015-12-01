@@ -21,33 +21,53 @@
 
 body {
   font-family: "Frutiger Neue W01 Book", Arial, sans-serif;
-  font-size: 18px;
-  line-height: 24px;
+  font-size: map-get($type-small, body);
+  line-height: map-get($type-small, leading-body);
   color: $text-colour;
+
+  @include media(large) {
+    font-size: map-get($type-large, body);
+    line-height: map-get($type-large, leading-body);
+  }
 }
 
 .heading-xlarge {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
-  font-size: 56px;
-  line-height: 60px;
+  font-size: map-get($type-small, xlarge);
+  line-height: map-get($type-small, leading-xlarge);
   margin: 36px 0;
+
+  @include media(large) {
+    font-size: map-get($type-large, xlarge);
+    line-height: map-get($type-large, leading-xlarge);
+  }
 }
 
 h1 {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
-  font-size: 32px;
-  line-height: 36px;
+  font-size: map-get($type-small, large);
+  line-height: map-get($type-small, leading-large);
   margin: 36px 0 24px 0;
+
+  @include media(large) {
+    font-size: map-get($type-large, large);
+    line-height: map-get($type-large, leading-large);
+  }
 }
 
 h2 {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
-  font-size: 26px;
-  line-height: 30px;
+  font-size: map-get($type-small, medium);
+  line-height: map-get($type-small, leading-medium);
   margin: 36px 0 18px 0;
+
+  @include media(large) {
+    font-size: map-get($type-large, medium);
+    line-height: map-get($type-large, leading-medium);
+  }
 }
 
 p {

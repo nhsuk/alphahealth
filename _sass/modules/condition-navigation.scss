@@ -5,8 +5,13 @@
 
   ol {
     @extend %contain-floats;
-    font-size: 15px;
+
+    font-size: map-get($type-small, small);
     border-bottom: 1px solid $border-colour;
+
+    @include media(large) {
+      font-size: map-get($type-large, small);
+    }
   }
 
   li {
