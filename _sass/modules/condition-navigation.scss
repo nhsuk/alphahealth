@@ -2,7 +2,7 @@
   @extend %contain-floats;
   @extend .content-measure;
 
-  h1 { @extend .heading-xlarge; }
+  h1 { @extend .heading-xxlarge; }
 
   ol {
     font-size: map-get($type-small, small);

@@ -31,12 +31,25 @@ body {
   }
 }
 
-.heading-xlarge {
+.heading-xxlarge {
+  font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
+  font-weight: normal;
+  font-size: map-get($type-small, xxlarge);
+  line-height: map-get($type-small, leading-xxlarge);
+  margin: 36px 0;
+
+  @include media(large) {
+    font-size: map-get($type-large, xxlarge);
+    line-height: map-get($type-large, leading-xxlarge);
+  }
+}
+
+h1 {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
   font-size: map-get($type-small, xlarge);
   line-height: map-get($type-small, leading-xlarge);
-  margin: 36px 0;
+  margin: 36px 0 24px 0;
 
   @include media(large) {
     font-size: map-get($type-large, xlarge);
@@ -44,12 +57,12 @@ body {
   }
 }
 
-h1 {
+h2 {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
   font-size: map-get($type-small, large);
   line-height: map-get($type-small, leading-large);
-  margin: 36px 0 24px 0;
+  margin: 36px 0 18px 0;
 
   @include media(large) {
     font-size: map-get($type-large, large);
@@ -57,12 +70,12 @@ h1 {
   }
 }
 
-h2 {
+h3 {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
   font-size: map-get($type-small, medium);
   line-height: map-get($type-small, leading-medium);
-  margin: 36px 0 18px 0;
+  margin: 24px 0 18px 0;
 
   @include media(large) {
     font-size: map-get($type-large, medium);
@@ -70,7 +83,7 @@ h2 {
   }
 }
 
-h3, h4, h5, h6 {
+h4, h5, h6 {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
   font-size: map-get($type-small, body);
