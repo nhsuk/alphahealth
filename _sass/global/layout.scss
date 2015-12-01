@@ -43,7 +43,8 @@ body {
 #global-footer {
   background-color: $black;
   color: $grey-3;
-  padding: 2rem 0;
+  padding: 48px 0 24px 0;
+  margin-top: 48px;
   border-top: 6px solid $grey-1;
   font-size: map-get($type-small, xsmall);
   line-height: map-get($type-small, leading-xsmall);
