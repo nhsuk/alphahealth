@@ -21,7 +21,7 @@ Usually treatment for depression and anxiety can include: talking to a therapist
 3. You phone the local service, they’ll ask you some questions and refer you to one of their therapists.
 
 <div class="notice">
-  <p>Some GPs put your directly in touch with a therapist or have a therapist in their practice.</p>
+  <p>Some GPs put you directly in touch with a therapist or have a therapist in their practice.</p>
 </div>
 
 ##Waiting times can be long
