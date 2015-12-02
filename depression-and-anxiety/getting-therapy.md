@@ -27,7 +27,7 @@ Usually treatment for depression and anxiety can include: talking to a therapist
 ##Waiting times can be long
 Waiting times can range from a few weeks to up to one year.
 
-Ask your GP about waiting times when he refers you. If they’re too long you might want to consider paying for therapy yourself (see below).
+Ask your GP about waiting times when they refer you. If they’re too long you might want to consider paying for therapy yourself (see below).
 
 ##Therapy is around 6 to 8 sessions
 The NHS usually covers 6 to 8 sessions. A session is around one hour.
