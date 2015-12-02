@@ -29,17 +29,16 @@ You're more at risk of developing type 2 diabetes if you are:
 ##When to see your GP
 See your GP if you have any of the symptoms of diabetes, or you are worried you may have a higher risk of developing it.
 
-Your GP can diagnose diabetes, although you will need a blood test which you may need to go your local hospital for.
+Your GP can diagnose diabetes following a blood test.
 
 The earlier diabetes is diagnosed and treatment starts, the better.  Untreated diabetes can damage your organs and lead to complications.  Doing something about your diabetes early, reduces this risk.
 
 ##Preparing for your appointment
 
-Your GP can test your urine at the surgery. You may also be able to have a blood test at your GP surgery, or you may be referred to your local health center or hospital.
+Your GP will test your urine at the surgery. If your GP surgery doesn't do blood tests, you may have to go to your local health center or hospital.
 
 To get the most out of your appointment, it may help you to write down some questions beforehand. These might include:
 
-
 - What are the tests for?
 - Will I have to do anything before the tests, eg not eat?
--  How and when will I get the results?
+- How and when will I get the results?
