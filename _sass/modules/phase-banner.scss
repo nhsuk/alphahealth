@@ -1,0 +1,20 @@
+.phase-banner {
+  max-width: 960px;
+  margin: 0 auto;
+  font-size: map-get($type-small, xsmall);
+  line-height: map-get($type-small, leading-xsmall);
+  border-bottom: 1px solid $grey-2;
+
+  .phase-tag {
+    display: inline-block;
+    vertical-align: baseline;
+    padding: 3px 6px;
+  }
+
+  .alpha {
+    font-weight: bold;
+    color: $white;
+    background-color: tint($dark-pink, 20%);
+    margin-right: 6px;
+  }
+}
