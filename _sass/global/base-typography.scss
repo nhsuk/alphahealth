@@ -158,3 +158,27 @@ a {
     outline: 3px solid $focus-colour;
   }
 }
+
+table {
+  @include media(large) {
+    margin-bottom: 36px;
+  }
+}
+
+th, td {
+  border-bottom: 1px solid $border-colour;
+  text-align: left;
+  padding: 8px 12px 8px 0;
+  font-size: map-get($type-small, small);
+  line-height: map-get($type-small, leading-small);
+
+  @include media(large) {
+    font-size: map-get($type-large, small);
+    line-height: map-get($type-large, leading-small);
+  }
+}
+
+th {
+  font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
+  font-weight: normal;
+}
