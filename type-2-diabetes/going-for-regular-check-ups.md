@@ -6,11 +6,11 @@ nav_order: 4
 
 # Going for regular check ups
 
-Type 2 diabetes check ups help to make sure your condition doesn’t lead to other health problems, eg with your eyesight, heart or your feet.
+Type 2 diabetes check ups help to make sure your condition doesn’t lead to other health problems, for example with your eyesight, heart or your feet.
 
 ## Every 3 months
 
-### Long-term blood sugar checks (HbA1C test)
+### Blood sugar checks (HbA1C test)
 
 Checks your average blood sugar levels and how close they are to normal.
 
@@ -22,13 +22,17 @@ You have these checks every 3 months when newly diagnosed, then every 6 months o
 
 Checks if you’ve lost any sensation in your feet and possibly for ulcers and infections.
 
-You have these checks once a year. Speak to your GP if you have cuts and bruises on your feet.
+You have these checks once a year. 
+
+Speak to your GP if you have cuts, bruises, or numbness in your feet.
 
 ### Eyes
 
 Checks for damage to blood vessels in your eyes.
 
-You have these checks once a year. Speak to your GP if you have blurred vision.
+You have these checks once a year. 
+
+Speak to your GP if you have blurred vision.
 
 ### Blood pressure, blood fats (cholesterol) and kidneys
 
