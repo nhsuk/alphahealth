@@ -14,7 +14,7 @@ Diabetes usually gets worse over time so your medicine or dose will need to chan
 
 Diabetes medicines help lower the amount of glucose in your blood.
 
-<div class="notice" role="note" aria-label="Information">
+<div class="notice">
   <p>
     There are many types of medicine for type 2 diabetes. It can take time to find a medicine and dose that’s right for you.
   </p>
