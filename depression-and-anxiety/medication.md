@@ -12,7 +12,7 @@ Antidepressants affect how certain chemicals in your brain work, which can impro
 
 They are usually prescribed for moderate to severe depression and anxiety.
 
-If you have low mood or depression, antidepressants won’t always work. Talking therapies like cognitive behavioral therapy (CBT) are usually recommended, although you’ll have to wait to get it.
+If you have low mood or depression, antidepressants won’t always work. Talking therapies like cognitive behavioural therapy (CBT) are usually recommended, although you’ll have to wait to get it.
 
 ##How antidepressants help##
 
