@@ -1,9 +1,14 @@
 .phase-banner {
-  max-width: 960px;
-  margin: 0 auto;
+  @extend .block-container;
+
   font-size: map-get($type-small, xsmall);
   line-height: map-get($type-small, leading-xsmall);
-  border-bottom: 1px solid $grey-2;
+
+  p {
+    border-bottom: 1px solid $grey-2;
+    margin: 0;
+    padding: 18px 0;
+  }
 
   .phase-tag {
     display: inline-block;
