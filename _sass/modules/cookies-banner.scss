@@ -3,6 +3,7 @@
   padding: 12px 0;
   font-size: map-get($type-small, xsmall);
   line-height: map-get($type-small, leading-xsmall);
+  display: none;
 
   p {
     @extend .block-container;
