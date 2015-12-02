@@ -17,19 +17,18 @@ To find out if you have type 2 diabetes, you usually have to go through the foll
 3. If you have diabetes, your GP will ask you to come in again to explain the test results and what will happen next. 
 
 ##If you’re diagnosed with diabetes
-If your blood test shows that you have diabetes, your GP will usually ask you to come in for another appointment.
 
-What they’ll talk to you about in the appointment depends on the diagnosis and the treatment they’ll recommend.
+What your GP will discuss with you during your initial appointment depends on the diagnosis and the treatment they recommend.
 
-Generally, they’ll talk to you about the following:
+Generally, they’ll talk to you about:
 
 - what diabetes is
 - what high blood sugar means for your health
 - what medication you’ll have to take
 - your diet and exercise
-- your lifestyle, eg alcohol and smoking
+- your lifestyle, for example alcohol and smoking
 
-Your GP will do their best to discuss the diagnosis to you but this first appointment might only be 10 to 15 minutes long.
+Your GP will do their best to discuss the diagnosis with you but this first appointment might only be 10 to 15 minutes long.
 
 ###If you have questions about your diagnosis
 It’s usually difficult to take everything in the GP tells you during the appointment.
@@ -50,5 +49,5 @@ Usually the following things happen after your diagnosis:
 
 1. Your GP will prescribe [medication](/type-2-diabetes/understanding-medication). It might take some time for you to get used to the medication and to find the right amounts for you.
 2. You might need to make changes to your [diet and start being active](/type-2-diabetes/food-and-keeping-active).
-3. You’ll have to watch your body for certain signs to avoid [other health problems](/type-2-diabetes/health-problems).
-4. You’ll have to go for [regular type 2 diabetes check ups](/type-2-diabetes/going-for-regular-check-ups).
+3. You’ll have to go for [regular type 2 diabetes check ups](/type-2-diabetes/going-for-regular-check-ups).
+4. You’ll have to look out for certain signs to avoid [other health problems](/type-2-diabetes/health-problems).
