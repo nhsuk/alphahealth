@@ -12,13 +12,12 @@ There is a lot of information and support available for type 2 diabetes. Some of
 Information about what diabetes is, diagnosis and monitoring your condition.
 
 - [What is diabetes?](https://www.diabetes.org.uk/Guide-to-diabetes/What-is-diabetes/) from the charity Diabetes UK
-- [Type 2 diabetes - the basics](http://www.webmd.com/diabetes/guide/type-2-diabetes) from the medical site WebMD
 - [Diabetes treatments](https://www.diabetes.org.uk/Guide-to-diabetes/What-is-diabetes/Diabetes-treatments/) from Diabetes UK
 - [15 checks you should do when you have diabetes](https://www.diabetes.org.uk/Guide-to-diabetes/Monitoring/15-healthcare-essentials/) from Diabetes UK
 - [Managing your diabetes](https://www.diabetes.org.uk/Guide-to-diabetes/Managing-your-diabetes/) from Diabetes UK
 
 ##Driving with type 2 diabetes
-You have to [tell the DVLA that you have type 2 diabetes](https://www.gov.uk/diabetes-driving).  You can be fined if you don’t.
+You have to [tell the DVLA that you have type 2 diabetes](https://www.gov.uk/diabetes-driving) if you're on insulin.  You can be fined if you don’t.
 
 ##Courses for managing diabetes
 There are free education courses to help you learn more about and manage your type 2 diabetes. Check with hospitals in your area.
@@ -60,7 +59,7 @@ They can help with things like managing your diabetes on a daily basis, diet, ex
 ##Keeping active with type 2 diabetes
 
 - [Getting active and staying active](https://www.diabetes.org.uk/Guide-to-diabetes/Managing-your-diabetes/Exercise/) - the charity Diabetes UK explains what kind of activity you could do and gives tips on how to get active
-- [Video with exercise tips](https://www.youtube.com/watch?v=9RDltBjdbEY) - simple exercises that you can do at home
+- [Video with exercise tips](http://www.nhs.uk/video/Pages/keep-active-150-minutes-exercise.aspx) - simple exercises that you can do at home
 
 ##Carry medical ID
 Some people choose to wear a special wristband or carry something in their wallet that says they have diabetes, in case there is a medical emergency.
