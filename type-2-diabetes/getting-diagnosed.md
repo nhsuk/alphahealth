@@ -5,16 +5,16 @@ nav_order: 2
 ---
 
 #Getting diagnosed
-Often type 2 diabetes is diagnosed by accident when you see your GP about something else and they ask for a blood or urine test.
+Type 2 diabetes is often diagnosed following blood or urine tests for something else. 
 
-However, if you have any [symptoms](/type-2-diabetes/check-if-you-have-type-2-diabetes) you should go and see your GP straight away.
+However, if you have any [symptoms](/type-2-diabetes/check-if-you-have-type-2-diabetes) you should see your GP straight away.
 
 ##Before your diagnosis
 To find out if you have type 2 diabetes, you usually have to go through the following steps:
 
 1. Speak to your GP about your symptoms.
-2. If your GP thinks you might have diabetes they’ll check your urine and take some blood to check your blood sugar levels. It usually takes about 1 to 2 days for the results to come back.
-3. If the tests show that you have diabetes, your GP will ask you to come in again to explain what will happen next. You’ll most likely be also be [put on medication](/type-2-diabetes/understanding-medication) straight away.
+2. Your GP will check your urine and arrange a blood test to check your blood sugar levels. It usually takes about 1 to 2 days for the results to come back.
+3. If you have diabetes, your GP will ask you to come in again to explain the test results and what will happen next. 
 
 ##If you’re diagnosed with diabetes
 If your blood test shows that you have diabetes, your GP will usually ask you to come in for another appointment.
