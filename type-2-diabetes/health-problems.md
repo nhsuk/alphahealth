@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 #Health problems#
-You need to watch your health and have regular check-ups if you have diabetes because high blood sugar can cause other problems and lead to:
+You need to watch your health and have regular check-ups if you have type 2 diabetes because it can lead to:
 
 - [heart disease](http://www.nhs.uk/conditions/coronary-heart-disease/pages/introduction.aspx) and [stroke](http://www.nhs.uk/Conditions/Stroke/Pages/Introduction.aspx)
 - loss of feeling and pain (nerve damage) - causing problems with sex
@@ -19,7 +19,7 @@ Controlling your blood sugar level and having regular diabetes check-ups is the 
 
 You should have your blood fats (cholesterol) and blood pressure checked at least once a year. This is part of your annual diabetes review. Diabetes increases your risk of developing heart disease and stroke so it’s important high blood pressure and high cholesterol is spotted and treated early.
 
-If you’re already being treated for high cholesterol and high blood pressure, it’s important you keep taking your medication.
+If you’re already being treated for high cholesterol and high blood pressure, keep taking your medication.
 
 Diabetes also worsens the effects of smoking on your heart.  [Get help to quit smoking](http://www.nhs.uk/LiveWell/Smoking/Pages/stopsmokingnewhome.aspx).
 
@@ -59,7 +59,7 @@ Speak to your GP or care team if you notice any changes in your feet, including:
 
 Diabetes UK has advice on [how to check your feet](https://www.diabetes.org.uk/Guide-to-diabetes/Complications/Feet/)
 
-Your feet should also be checked every year by a foot specialist (podiatrist) or at your annual diabetes review.
+Your feet should also be checked every year. This can be at your annual diabetes review or by a foot specialist (podiatrist). 
 
 Sores or infections that aren’t treated early can lead to gangrene. More than 135 amputations are carried out every week in the UK due to diabetes.
 
