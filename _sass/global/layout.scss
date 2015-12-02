@@ -60,6 +60,13 @@ body {
   .footer-container {
     @extend .block-container;
   }
+
+  nav li {
+    display: inline;
+    list-style: none;
+    margin: 0 12px 0 0;
+    padding: 0;
+  }
 }
 
 // Main content to have approx 65-75 character width
