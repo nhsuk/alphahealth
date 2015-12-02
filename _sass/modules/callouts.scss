@@ -1,0 +1,14 @@
+.notice {
+  padding: 18px;
+  margin: 36px 0;
+  background: tint($yellow, 70%);
+  border-left: 3px solid $yellow;
+
+  & :first-child {
+    margin-top: 0;
+  }
+
+  & :last-child {
+    margin-bottom: 0;
+  }
+}

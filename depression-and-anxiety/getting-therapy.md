@@ -20,7 +20,7 @@ Usually treatment for depression and anxiety can include: talking to a therapist
 2. If your GP thinks therapy is the best treatment for you they’ll write you a prescription and give you the number a service that provides therapy in your area.
 3. You phone the local service, they’ll ask you some questions and refer you to one of their therapists.
 
-<div class="callout-box">
+<div class="notice" role="note" aria-label="Information">
   <p>Some GPs put your directly in touch with a therapist or have a therapist in their practice.</p>
 </div>
 

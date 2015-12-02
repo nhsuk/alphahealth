@@ -10,7 +10,7 @@ If you have [symptoms of depression or anxiety](/depression-and-anxiety/how-to-t
 
 It’s very common for people to see their GP about constant low mood, depression or anxiety.
 
-<div class="callout-box">
+<div class="notice" role="note" aria-label="Information">
   <p>If you need help now, call 111 or the Samaritans on <span class="nowrap">08457 90 90 90</span>.</p>
 </div>
 
