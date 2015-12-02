@@ -8,7 +8,7 @@ nav_order: 4
 
 Most people need medicine to control their type 2 diabetes. Medicine is taken to keep your blood sugar level as normal as possible to prevent further health problems. You’ll have to take it for the rest of your life.
 
-Diabetes usually gets worse over time so your medicine or dose will need to change.  [Adjusting your diet and being more active](/type-2-diabetes/diet) is also necessary to keep your blood sugar level down.
+Diabetes usually gets worse over time so your medicine or dose will need to change.  [Adjusting your diet and being more active](/type-2-diabetes/food-and-keeping-active) is also necessary to keep your blood sugar level down.
 
 ##Getting the right medicine for you##
 

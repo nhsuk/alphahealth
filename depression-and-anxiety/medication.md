@@ -70,12 +70,6 @@ It’s likely you will need an appointment with your GP for repeat prescriptions
 
 You should then be able to collect repeat prescriptions in the usual way.
 
-<p>
-  <a href="javascript:void(0);" class="button button-secondary-cta">
-    Renew your prescriptions
-  </a>
-</p>
-
 ##How you feel when you stop taking antidepressants##
 
 It’s difficult to know how you might feel when you stop taking antidepressants.

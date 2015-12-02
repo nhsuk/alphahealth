@@ -16,7 +16,7 @@ Usually treatment for depression and anxiety can include: talking to a therapist
 
 ##How to get therapy on the NHS
 
-1. [See your GP](/book-an-appointment/start) about your the way you feel.
+1. See your GP about your the way you feel.
 2. If your GP thinks therapy is the best treatment for you they’ll write you a prescription and give you the number a service that provides therapy in your area.
 3. You phone the local service, they’ll ask you some questions and refer you to one of their therapists.
 
@@ -41,7 +41,7 @@ There are no rules about how to find this out. You have to trust your instinct.
 
 If you’re not happy with your NHS prescribed therapist you should do the following:
 
-1. [Book a GP appointment](/book-an-appointment/start)
+1. Book a GP appointment.
 2. Take some time before the appointment to think why you feel the therapy isn’t working.
 3. Discuss the problem with your GP.
 4. If you both agree that you should continue with therapy, your GP will write you a referral for a new therapist.

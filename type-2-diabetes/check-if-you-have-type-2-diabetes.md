@@ -33,14 +33,6 @@ Your GP can diagnose diabetes, although you will need a blood test which you may
 
 The earlier diabetes is diagnosed and treatment starts, the better.  Untreated diabetes can damage your organs and lead to complications.  Doing something about your diabetes early, reduces this risk.
 
-You can book an appointment online or over the phone.
-
-<p>
-  <a href="/book-an-appointment" class="button button-secondary-cta">Book an appointment</a>
-</p>
-
-Phone: 0888 123 456
-
 ##Preparing for your appointment
 
 Your GP can test your urine at the surgery. You may also be able to have a blood test at your GP surgery, or you may be referred to your local health center or hospital.
