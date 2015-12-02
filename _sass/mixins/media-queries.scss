@@ -7,7 +7,7 @@
 //   div.columns {
 //     border: 1px solid;
 //
-//     @include media(large){
+//     @include media(large) {
 //       width: 30%;
 //       float: left;
 //     }
@@ -16,15 +16,15 @@
 
 @mixin media($size: false) {
   @if $size == large {
-    @media (min-width: 769px){
+    @media (min-width: 769px) {
       @content;
     }
   } @else if $size == medium {
-    @media (min-width: 641px){
+    @media (min-width: 641px) {
       @content;
     }
   } @else {
-    @media (min-width: $size){
+    @media (min-width: $size) {
       @content
     }
   }

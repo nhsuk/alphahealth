@@ -31,63 +31,108 @@ body {
   }
 }
 
-.heading-xlarge {
+.heading-xxlarge {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
-  font-size: map-get($type-small, xlarge);
-  line-height: map-get($type-small, leading-xlarge);
-  margin: 36px 0;
+  font-size: map-get($type-small, xxlarge);
+  line-height: map-get($type-small, leading-xxlarge);
+  margin: 25px 0;
 
   @include media(large) {
-    font-size: map-get($type-large, xlarge);
-    line-height: map-get($type-large, leading-xlarge);
+    font-size: map-get($type-large, xxlarge);
+    line-height: map-get($type-large, leading-xxlarge);
+    margin: 36px 0;
   }
 }
 
 h1 {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
-  font-size: map-get($type-small, large);
-  line-height: map-get($type-small, leading-large);
-  margin: 36px 0 24px 0;
+  font-size: map-get($type-small, xlarge);
+  line-height: map-get($type-small, leading-xlarge);
+  margin: 25px 0 20px 0;
 
   @include media(large) {
-    font-size: map-get($type-large, large);
-    line-height: map-get($type-large, leading-large);
+    font-size: map-get($type-large, xlarge);
+    line-height: map-get($type-large, leading-xlarge);
+    margin: 36px 0 24px 0;
   }
 }
 
 h2 {
   font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
   font-weight: normal;
+  font-size: map-get($type-small, large);
+  line-height: map-get($type-small, leading-large);
+  margin: 20px 0 15px 0;
+
+  @include media(large) {
+    font-size: map-get($type-large, large);
+    line-height: map-get($type-large, leading-large);
+    margin: 36px 0 18px 0;
+  }
+}
+
+h3 {
+  font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
+  font-weight: normal;
   font-size: map-get($type-small, medium);
   line-height: map-get($type-small, leading-medium);
-  margin: 36px 0 18px 0;
+  margin: 15px 0 15px 0;
 
   @include media(large) {
     font-size: map-get($type-large, medium);
     line-height: map-get($type-large, leading-medium);
+    margin: 24px 0 18px 0;
+  }
+}
+
+h4, h5, h6 {
+  font-family: "Frutiger Neue W01 Bd", Arial, sans-serif;
+  font-weight: normal;
+  font-size: map-get($type-small, body);
+  line-height: map-get($type-small, leading-body);
+  margin: 20px 0 15px 0;
+
+  @include media(large) {
+    font-size: map-get($type-large, body);
+    line-height: map-get($type-large, leading-body);
+    margin: 24px 0 18px 0;
   }
 }
 
 p {
-  margin: 18px 0;
+  margin: 15px 0;
+  
+  @include media(large) {
+    margin: 18px 0;
+  }
 }
 
 ul {
-  margin-bottom: 18px;
   list-style-type: disc;
   list-style-position: outside;
+
+  @include media(large) {
+    margin-bottom: 18px;
+  }
 }
 
 ol {
-  margin-bottom: 18px;
   list-style-type: decimal;
   list-style-position: outside;
+
+  @include media(large) {
+    margin-bottom: 18px;
+  }
 }
 
 li {
-  margin: 0 0 6px 1.25em;
+  margin-left: 1.25em;
+
+  @include media(large) {
+    margin-bottom: 12px;
+  }
 }
 
 a {

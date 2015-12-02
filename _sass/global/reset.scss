@@ -61,3 +61,8 @@ table {
 // Additional device width resets
 @-ms-viewport { width: device-width; }
 @-o-viewport { width: device-width; }
+
+// Allow smaller than 13pt on Safari
+body {
+	-webkit-text-size-adjust: none;
+}

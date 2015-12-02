@@ -8,7 +8,7 @@ nav_order: 4
 
 Type 2 diabetes check ups help to make sure your condition doesn’t lead to other health problems, eg with your eyesight, heart or your feet.
 
-## Every 3 months
+## Every 3 months
 
 ### Long-term blood sugar checks (HbA1C test)
 
