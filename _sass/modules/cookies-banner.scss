@@ -1,0 +1,10 @@
+#global-cookies-banner {
+  background-color: tint($blue, 80%);
+  padding: 12px 0;
+  font-size: map-get($type-small, xsmall);
+  line-height: map-get($type-small, leading-xsmall);
+
+  p {
+    @extend .block-container;
+  }
+}
