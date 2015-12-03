@@ -22,9 +22,9 @@ Antidepressants can help you feel better and more able to look after yourself in
 - being physically active
 - taking part in therapy
 
-This is why they’re often prescribed alongside [therapy](/getting-therapy), or while you’re waiting for therapy.
+This is why they’re often prescribed alongside [therapy](/depression-and-anxiety/getting-therapy), or while you’re waiting for therapy.
 
-Read more about other ways of [managing your depression](/managing-depression-and-anxiety)
+Read more about other ways of [managing your depression](/depression-and-anxiety/managing-depression-and-anxiety)
 
 ##Antidepressants should start working soon after taking them##
 
