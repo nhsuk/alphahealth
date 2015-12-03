@@ -1,5 +1,5 @@
 ---
-title: Further information and support
+title: Finding help and support
 condition: Type 2 diabetes
 nav_order: 7
 ---

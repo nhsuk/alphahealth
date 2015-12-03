@@ -38,7 +38,7 @@ Talk to family and friends about what the GP told you and write down all the que
 Then make another GP appointment and take your list of questions with you.
 
 ###Dealing with confusion and shock after the diagnosis
-There’s also a lot of [information on diabetes](/type-2-diabetes/further-information-and-support) available including how to find:
+There’s also a lot of [information on diabetes](/type-2-diabetes/finding-help-and-support) available including how to find:
 
 - support groups
 - hospital courses about living with diabetes
