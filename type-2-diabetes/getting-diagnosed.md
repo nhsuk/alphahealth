@@ -7,7 +7,7 @@ nav_order: 2
 #Getting diagnosed
 Type 2 diabetes is often diagnosed following blood or urine tests for something else. 
 
-However, if you have any [symptoms](/type-2-diabetes/check-if-you-have-type-2-diabetes) you should see your GP straight away.
+However, if you have any [symptoms](/type-2-diabetes/check-if-you-have-it) you should see your GP straight away.
 
 ##Before your diagnosis
 To find out if you have type 2 diabetes, you usually have to go through the following steps:

@@ -1,5 +1,5 @@
 ---
-title: Check if you have type 2 diabetes
+title: Check if you have it
 condition: Type 2 diabetes
 nav_order: 1
 ---
