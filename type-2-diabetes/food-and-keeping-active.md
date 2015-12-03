@@ -8,7 +8,7 @@ nav_order: 6
 
 A healthy diet and keeping active will help you manage your blood sugar level. They’ll also help you control your weight and generally feel better.
 
-##Eating a healthy diet
+##You can eat many types of foods
 There’s nothing you can’t eat, but you’ll have to limit certain foods.
 
 You should:
@@ -37,7 +37,7 @@ If you find it hard to change your diet, a dietitian might be able to help.
 
 Talk to your GP or nurse to see if the cost could be covered through the NHS.
 
-##Keeping active
+##Being active lowers your blood sugar level
 Physical exercise helps lower your blood sugar level. You should aim for 2.5 hours of activity per week.
 
 You can be active anywhere, as long as what you’re doing makes you out of breath. This could be:
@@ -48,8 +48,8 @@ You can be active anywhere, as long as what you’re doing makes you out of brea
 
 The charity Diabetes UK has [tips on how to get active](https://www.diabetes.org.uk/Guide-to-diabetes/Managing-your-diabetes/Exercise/).
 
-##Managing your weight
-Losing weight (if you’re overweight) will make it easier for your body lower your blood sugar level  and can improve your blood pressure and cholesterol (blood fats).
+##Your weight is important
+Losing weight (if you’re overweight) will make it easier for your body lower your blood sugar level and can improve your blood pressure and cholesterol (blood fats).
 
 To know whether you’re overweight, work out your [body mass index (BMI)](http://www.nhs.uk/Tools/Pages/Healthyweightcalculator.aspx).
 
