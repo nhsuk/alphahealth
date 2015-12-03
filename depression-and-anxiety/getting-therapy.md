@@ -14,6 +14,8 @@ Talking to a therapist can help with:
 
 Usually treatment for depression and anxiety can include: talking to a therapist, medication, and self-help such as exercise.
 
+There are many different types of talking treatments.  The charity Mind has more information about [types of therapy](http://www.mind.org.uk/information-support/drugs-and-treatments/talking-treatments/types-of-therapy/#.VmBFKHbhCM8). 
+
 ##How to get therapy on the NHS
 
 1. Speak to your GP about the way you feel.
