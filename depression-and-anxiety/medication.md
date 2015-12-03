@@ -65,7 +65,7 @@ Speak to your GP if the side effects don’t improve. You can discuss whether an
 
 Some studies have shown a small increased risk of suicide with some antidepressants. This is most common in teenagers. Speak to your GP immediately if you have severe side effects or experience suicidal thoughts.
 
-#Renewing your prescription for antidepressants#
+##Renewing your prescription for antidepressants##
 
 It’s likely you'll need an appointment with your GP for repeat prescriptions initially. This is so you can discuss how you’re feeling, how medication is working and any side effects.
 
@@ -102,7 +102,7 @@ You should gradually stop taking antidepressants to avoid withdrawal symptoms. T
   </p>
 </div>
 
-#Alternative medicines
+##Alternative medicines
 
 Some people prefer to take natural medicines. However, there’s little evidence for many of the herbal remedies suggested for depression on the internet.
 
