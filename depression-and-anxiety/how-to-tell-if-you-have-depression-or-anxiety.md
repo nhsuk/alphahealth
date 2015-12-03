@@ -31,6 +31,8 @@ It can affect your body, too:
 - no interest in sex
 - headaches that keep coming back or don’t go away
 
+Answer these quick [questions to help you assess whether you could have depression](http://www.nhs.uk/Tools/Pages/depression.aspx?Tag=Mental+health).
+
 ##Symptoms of anxiety
 If you feel anxious all the time and the feeling isn’t about one specific thing you might have ‘generalised anxiety disorder’.
 
