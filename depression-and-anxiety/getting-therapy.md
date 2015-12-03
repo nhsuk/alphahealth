@@ -12,7 +12,7 @@ Talking to a therapist can help with:
 - dealing with negative thoughts and feelings
 - finding ways of coping every day
 
-Usually treatment for depression and anxiety can include: talking to a therapist, medication,and self-help such as exercise.
+Usually treatment for depression and anxiety can include: talking to a therapist, medication, and self-help such as exercise.
 
 ##How to get therapy on the NHS
 
