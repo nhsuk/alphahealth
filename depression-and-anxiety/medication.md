@@ -28,7 +28,7 @@ Read more about other ways of [managing your depression](/depression-and-anxiety
 
 ##Antidepressants should start working soon after taking them##
 
-<div class="notice">
+<div class="notice" role="note" aria-label="Information">
   <p>
     It usually takes around 2 weeks to notice the effects of antidepressants
   </p>
@@ -96,7 +96,7 @@ You should gradually stop taking antidepressants to avoid withdrawal symptoms. T
 - reducing the dose
 - taking them every other day (if you’re already on a low dose).
 
-<div class="notice">
+<div class="notice" role="note" aria-label="Information">
   <p>
     Speak to your doctor if you plan to stop taking your antidepressants. They can help you decide the best time to stop and how quickly to reduce your dose.
   </p>
