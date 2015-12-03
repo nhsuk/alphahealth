@@ -53,7 +53,7 @@ Exercise can be anything that gets you slightly out of breath, for example:
  
 Just being active in any way for 20 minutes a day can help lift your mood.
  
-<div class="notice">
+<div class="notice" role="note" aria-label="Information">
   <p>
     Setting up an exercise routine will help you do it every day.
   </p>
