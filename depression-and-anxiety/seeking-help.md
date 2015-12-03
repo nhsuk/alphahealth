@@ -21,4 +21,4 @@ Your GP will discuss your symptoms with you and recommend what you can do next.
 
 You can be open and honest with your GP. This will help them to find the best way to help you.
 
-They might recommend [therapy](/depression-and-anxiety/getting-therapy), or [medication](medication), or both. They might just recommend something as simple as exercising regularly.
+They might recommend [therapy](/depression-and-anxiety/getting-therapy) or [medication](medication), or both. They might just recommend something as simple as exercising regularly.
