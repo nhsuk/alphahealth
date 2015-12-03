@@ -48,6 +48,6 @@ There’s also a lot of [information on diabetes](/type-2-diabetes/further-infor
 Usually the following things happen after your diagnosis:
 
 1. Your GP will prescribe [medication](/type-2-diabetes/understanding-medication). It might take some time for you to get used to the medication and to find the right amounts for you.
-2. You might need to make changes to your [diet and start being active](/type-2-diabetes/food-and-keeping-active).
+2. You might need to make changes to your [diet and increase how active you are](/type-2-diabetes/food-and-keeping-active).
 3. You’ll have to go for [regular type 2 diabetes check ups](/type-2-diabetes/going-for-regular-check-ups).
 4. You’ll have to look out for certain signs to avoid [other health problems](/type-2-diabetes/health-problems).
