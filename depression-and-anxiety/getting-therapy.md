@@ -16,8 +16,8 @@ Usually treatment for depression and anxiety can include: talking to a therapist
 
 ##How to get therapy on the NHS
 
-1. See your GP about your the way you feel.
-2. If your GP thinks therapy is the best treatment for you they’ll write you a prescription and give you the number a service that provides therapy in your area.
+1. Speak to your GP about the way you feel.
+2. If your GP thinks therapy is the best treatment for you they’ll give you the number for a service that provides therapy in your area.
 3. You phone the local service, they’ll ask you some questions and refer you to one of their therapists.
 
 <div class="notice">
@@ -32,19 +32,18 @@ Ask your GP about waiting times when they refer you. If they’re too long you m
 ##Therapy is around 6 to 8 sessions
 The NHS usually covers 6 to 8 sessions. A session is around one hour.
 
-After that you’ll have to review your situation with your GP. They might prescribe further sessions or recommend something else. Sometimes simple life changes, like exercising regularly, might help.
+After that you’ll have to review your situation with your GP. They might prescribe further sessions or recommend something else. Sometimes simple changes, like exercising regularly, might help.
 
 ##Changing therapists
-It’s important that you feel comfortable with your therapist and can be open with them. If this isn’t the case, the sessions won’t help you.
+It’s important you feel comfortable with your therapist and can be open with them. If this isn’t the case, the sessions won’t help you.
 
 There are no rules about how to find this out. You have to trust your instinct.
 
 If you’re not happy with your NHS prescribed therapist you should do the following:
 
-1. Book a GP appointment.
-2. Take some time before the appointment to think why you feel the therapy isn’t working.
-3. Discuss the problem with your GP.
-4. If you both agree that you should continue with therapy, your GP will write you a referral for a new therapist.
+1. Think about why you feel therapy isn’t working.
+2. Speak to your GP about the problem.
+3. If you both agree you should continue with therapy, your GP should be able to refer you to a new therapist.
 
 ##Paying for therapy yourself
 You can also go directly to a therapist without using the NHS. You don’t need a referral from your GP and you can usually start right away.
@@ -64,7 +63,7 @@ To search for an approved therapist use:
 ##If you don’t want to talk to your GP
 If you don’t feel comfortable talking to your GP about the way you feel, you can contact one of the charities that help people with depression and anxiety.
 
-They can help you with things like talking to other people about your problem or finding a therapist but they won’t be able to prescribe you free therapy or counselling.
+They can help you with things like talking to other people about your problem or finding a therapist, but they won’t be able to prescribe you free therapy or counselling.
 
 - [Depression Alliance](http://www.depressionalliance.org/)
 - [Depression UK](http://www.depressionuk.org/index.shtml)
