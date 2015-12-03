@@ -4,7 +4,7 @@ condition: Type 2 diabetes
 nav_order: 5
 ---
 
-#Health problems#
+#Health problems caused by type 2 diabetes
 You need to watch your health and have regular check-ups if you have type 2 diabetes because it can lead to:
 
 - [heart disease](http://www.nhs.uk/conditions/coronary-heart-disease/pages/introduction.aspx) and [stroke](http://www.nhs.uk/Conditions/Stroke/Pages/Introduction.aspx)
