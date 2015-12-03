@@ -36,15 +36,16 @@ Read more about other ways of [managing your depression](/managing-depression-an
 
 Your GP will prescribe the lowest dose necessary to help your depression or anxiety.
 
-Speak to your GP if you don’t feel a difference after 4 weeks. Your GP may discuss
-increasing the dose with you, changing to  a different type of antidepressant, or another type
-of treatment. You should not change the dose yourself without talking to your GP about it.
+Speak to your GP if you don’t feel a difference after 4 weeks. They may discuss with you
+increasing the dose, changing the type of antidepressant, or suggest another treatment. 
 
-Antidepressants are usually prescribed for 6 months to prevent depression of an returning when you stop taking them.  A longer course may be recommended if you’ve had depression before.
+You should not change the dose yourself without talking to your GP about it.
+
+Antidepressants are usually prescribed for 6 months to prevent depression returning when you stop taking them.  A longer course may be recommended if you’ve had depression before.
 
 ##Side effects##
 
-There’s stigma around taking medication for depression. However, recently-developed antidepressants don’t have the severe side effects they had years ago. They won’t alter your mood or make you feel high. They aren’t tranquilisers and don’t cause addiction.
+There’s stigma around taking medication for depression. However, recently-developed antidepressants don’t have the severe side effects they had years ago. They won’t make you feel high. They aren’t tranquilisers and don’t cause addiction.
 
 Common side effects of antidepressants are mild in most cases and include:
 
@@ -66,7 +67,7 @@ Some studies have shown a small increased risk of suicide with some antidepressa
 
 #Renewing your prescription for antidepressants#
 
-It’s likely you will need an appointment with your GP for repeat prescriptions initially. This is so you can discuss how you’re feeling, how medication is working and any side effects.
+It’s likely you'll need an appointment with your GP for repeat prescriptions initially. This is so you can discuss how you’re feeling, how medication is working and any side effects.
 
 You should then be able to collect repeat prescriptions in the usual way.
 
@@ -103,9 +104,9 @@ You should gradually stop taking antidepressants to avoid withdrawal symptoms. T
 
 #Alternative medicines
 
-Some people prefer to take natural medicines. However, there’s little evidence for many of the herbal remedies suggested on the internet for depression.
+Some people prefer to take natural medicines. However, there’s little evidence for many of the herbal remedies suggested for depression on the internet.
 
-There is some evidence that a herbal medicine called St John’s wort can help depression but it can cause serious problems if taken with other medications, including:
+There is some evidence that a herbal medicine called St John’s wort can help depression in some people but it can cause serious problems if taken with other medications, including:
 
 - antidepressants
 - the contraceptive pill
