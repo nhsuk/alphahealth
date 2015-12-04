@@ -4,7 +4,7 @@ condition: Type 2 diabetes
 nav_order: 7
 ---
 
-#Further information and support
+#Finding help and support for type 2 diabetes
 
 There is a lot of information and support available for type 2 diabetes. Some of the support depends on the area you live in.
 
@@ -14,7 +14,7 @@ Type 2 diabetes type means you have too much glucose in your blood. It happens w
 
 You have type 2 diabetes for life.  Controlling your blood sugar levels with medicines, diet and exercise, should allow you to lead a healthy life. 
 
-Information about what diabetes isand monitoring your condition.
+Information about what diabetes is and monitoring your condition:
 
 - [What is diabetes?](https://www.diabetes.org.uk/Guide-to-diabetes/What-is-diabetes/) from the charity Diabetes UK
 - [15 checks you should do when you have diabetes](https://www.diabetes.org.uk/Guide-to-diabetes/Monitoring/15-healthcare-essentials/) from Diabetes UK
