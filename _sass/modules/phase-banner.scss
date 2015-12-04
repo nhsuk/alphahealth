@@ -10,16 +10,7 @@
     padding: 18px 0;
   }
 
-  .phase-tag {
-    display: inline-block;
-    vertical-align: baseline;
-    padding: 3px 6px;
-  }
-
-  .alpha {
-    font-weight: bold;
-    color: $white;
-    background-color: tint($dark-pink, 20%);
-    margin-right: 6px;
+  b {
+    color: $dark-pink;
   }
 }
