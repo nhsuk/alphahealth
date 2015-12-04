@@ -27,6 +27,7 @@ You have to [tell the DVLA that you have type 2 diabetes](https://www.gov.uk/dia
 There are free education courses to help you learn more about and manage your type 2 diabetes. 
 
 They:
+
 - include practical tips
 - are informal and for small groups (10 people or less)
 - can be translated and tailored to suit your community
