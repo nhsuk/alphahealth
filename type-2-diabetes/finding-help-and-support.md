@@ -54,6 +54,7 @@ They can help with things like managing your diabetes on a daily basis, diet, ex
 Telling friends and family you have diabetes type 2 can be difficult. 
 
 However, it can help for certain people to know you have diabetes:
+
 - family can support you, especially as you will need to make change what you eat
 - it’s important your colleagues or employer know in case of an emergency
 - being diagnosed with diabetes can affect your mood - telling your partner will help them understand how you feel
