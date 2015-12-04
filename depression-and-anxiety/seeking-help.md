@@ -6,7 +6,7 @@ nav_order: 2
 
 #Seeking help
 
-If you have [symptoms of depression or anxiety](/depression-and-anxiety/how-to-tell-if-you-have-depression-or-anxiety) for more than 2 weeks you should see your GP. This is usually the first step to seek help.
+If you have [symptoms of depression or anxiety](/depression-and-anxiety/how-to-tell-if-you-have-it) for more than 2 weeks you should see your GP. This is usually the first step to seek help.
 
 It’s very common for people to see their GP about constant low mood, depression or anxiety.
 
@@ -21,4 +21,4 @@ Your GP will discuss your symptoms with you and recommend what you can do next.
 
 You can be open and honest with your GP. This will help them to find the best way to help you.
 
-They might recommend [therapy](/depression-and-anxiety/getting-therapy) or [medication](/depression-and-anxiety/medication), or both. They might just recommend something as simple as exercising regularly.
+They might recommend [therapy](/depression-and-anxiety/getting-therapy) or [medication](/depression-and-anxiety/understanding-medication), or both. They might just recommend something as simple as exercising regularly.

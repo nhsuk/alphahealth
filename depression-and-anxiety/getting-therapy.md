@@ -72,3 +72,21 @@ They can help you with things like talking to other people about your problem or
 - [Mind](http://www.mind.org.uk/information-support/types-of-mental-health-problems/depression/)
 - [Rethink mental illness](http://www.rethink.org/diagnosis-treatment/conditions/depression)
 - [Big White Wall](https://www.bigwhitewall.com/landing-pages/landingv3.aspx)
+
+##You can get therapy online
+
+A type of therapy called cognitive behavioural therapy (CBT) is available online and it may be free on the NHS, depending where you live. 
+
+The benefits of computerised CBT include:
+
+-  no waiting time
+-  you don't need a lot of experience on computers to use them
+-  research shows they work 
+-  you can use them any time
+
+Your GP can refer you for computerised CBT or you can refer yourself at: 
+
+- [Big White Wall](http://www.mind.org.uk/information-support/drugs-and-treatments/talking-treatments/types-of-therapy/#.VmBFKHbhCM8)
+- [Buddy](https://www.buddyapp.co.uk/undergoing-therapy)
+- [Fearfighter](http://www.fearfighter.com/)
+- [Leso](http://iesohealth.com/accessing-ieso/patients/)

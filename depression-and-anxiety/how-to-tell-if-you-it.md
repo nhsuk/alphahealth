@@ -1,5 +1,5 @@
 ---
-title: How to tell if you have depression or anxiety
+title: How to tell if you have it
 condition: Depression and anxiety
 nav_order: 1
 ---
