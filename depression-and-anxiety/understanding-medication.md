@@ -1,5 +1,5 @@
 ---
-title: Understanding-medication
+title: Understanding medication
 condition: Depression and anxiety
 nav_order: 4
 ---
