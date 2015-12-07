@@ -2,8 +2,6 @@
   @extend %contain-floats;
   @extend .content-measure;
 
-  h1 { @extend .heading-xxlarge; }
-
   ol {
     font-size: map-get($type-small, small);
     padding-bottom: 24px;
@@ -37,4 +35,8 @@
     // background colour is still yellow
     outline: 0;
   }
+}
+
+.condition-navigation + #content h1 {
+  @extend .heading-xlarge;
 }
