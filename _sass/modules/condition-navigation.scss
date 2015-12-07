@@ -19,12 +19,22 @@
 
   li {
     margin-bottom: 0;
-    padding-bottom: 6px;
+    padding-bottom: 5px;
 
     @include media(large) {
       -webkit-column-break-inside: avoid;
       page-break-inside: avoid;
       break-inside: avoid;
     }
+  }
+
+  a {
+    display: inline-block;
+    padding: 1px 2px;
+  }
+  a:focus {
+    // different focus handling to prevent trailing outline in column layout
+    // background colour is still yellow
+    outline: 0;
   }
 }

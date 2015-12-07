@@ -55,6 +55,10 @@ body {
 
   a {
     color: tint($black, 70%);
+
+    &:focus {
+      color: $black;
+    }
   }
 
   .footer-container {
