@@ -21,7 +21,7 @@ You should have your blood fats (cholesterol) and blood pressure checked at leas
 
 If you’re already being treated for high cholesterol and high blood pressure, keep taking your medication.
 
-Diabetes also worsens the effects of smoking on your heart.  [Get help to quit smoking](http://www.nhs.uk/LiveWell/Smoking/Pages/stopsmokingnewhome.aspx).
+Diabetes also worsens the effects of smoking on your heart.  [Get help to quit smoking.](http://www.nhs.uk/LiveWell/Smoking/Pages/stopsmokingnewhome.aspx)
 
 ##Loss of feeling##
 
@@ -59,7 +59,7 @@ Speak to your GP or care team if you notice any changes in your feet, including:
 
 Diabetes UK has advice on [how to check your feet](https://www.diabetes.org.uk/Guide-to-diabetes/Complications/Feet/)
 
-Your feet should also be checked every year. This can be at your annual diabetes review or by a foot specialist (podiatrist). 
+Your feet should also be checked every year. This can be at your annual diabetes review or by a foot specialist (podiatrist).
 
 Sores or infections that aren’t treated early can lead to gangrene. More than 135 amputations are carried out every week in the UK due to diabetes.
 

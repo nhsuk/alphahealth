@@ -37,7 +37,7 @@ Read more about other ways of [managing your depression](/depression-and-anxiety
 Your GP will prescribe the lowest dose necessary to help your depression or anxiety.
 
 Speak to your GP if you don’t feel a difference after 4 weeks. They may discuss with you
-increasing the dose, changing the type of antidepressant, or suggest another treatment. 
+increasing the dose, changing the type of antidepressant, or suggest another treatment.
 
 You should not change the dose yourself without talking to your GP about it.
 
@@ -57,7 +57,7 @@ Common side effects of antidepressants are mild in most cases and include:
 - problems with sex
 - dry mouth
 
-The charity MIND has a full list of the different types of [antidepressants and their side effects](http://www.mind.org.uk/information-support/drugs-and-treatments/antidepressants-a-z.aspx).
+The charity MIND has a full list of the different types of [antidepressants and their side effects.](http://www.mind.org.uk/information-support/drugs-and-treatments/antidepressants-a-z.aspx)
 
 Some side effects are common when you first start taking antidepressants. They should improve as your body gets used to the medication. This can take a few weeks.  Try to keep taking medication until the side effects improve.
 

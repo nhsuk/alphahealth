@@ -20,7 +20,7 @@ NHS.UK cookies aren’t used to identify you personally.
 You’ll normally see a message on the site before we store a cookie on your
 computer.
 
-Find out more about [how to manage cookies](http://www.aboutcookies.org/).
+Find out more about [how to manage cookies.](http://www.aboutcookies.org/)
 
 ## How cookies are used on NHS.UK
 
@@ -34,7 +34,7 @@ Google Analytics stores information about:
 
   - the pages you visit on NHS.UK
   - how long you spend on each NHS.UK page 
-  - how you got to the site  
+  - how you got to the site 
   - what you click on while you’re visiting the site
 
 We don’t collect or store your personal information (eg your name or address)
@@ -87,7 +87,7 @@ Google Analytics sets the following cookies:
 </table>
 
 You can [opt out of Google Analytics
-cookies](https://tools.google.com/dlpage/gaoptout).
+cookies.](https://tools.google.com/dlpage/gaoptout)
 
 ### Our introductory message
 

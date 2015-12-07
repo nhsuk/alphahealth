@@ -14,7 +14,7 @@ Talking to a therapist can help with:
 
 Usually treatment for depression and anxiety can include: talking to a therapist, medication, and self-help such as exercise.
 
-There are many different types of talking treatments.  The charity Mind has more information about [types of therapy](http://www.mind.org.uk/information-support/drugs-and-treatments/talking-treatments/types-of-therapy/#.VmBFKHbhCM8). 
+There are many different types of talking treatments.  The charity Mind has more information about [types of therapy.](http://www.mind.org.uk/information-support/drugs-and-treatments/talking-treatments/types-of-therapy/#.VmBFKHbhCM8) 
 
 ##How to get therapy on the NHS
 
@@ -75,16 +75,16 @@ They can help you with things like talking to other people about your problem or
 
 ##You can get therapy online
 
-A type of therapy called cognitive behavioural therapy (CBT) is available online and it may be free on the NHS, depending where you live. 
+A type of therapy called cognitive behavioural therapy (CBT) is available online and it may be free on the NHS, depending where you live.
 
 The benefits of computerised CBT include:
 
 -  no waiting time
 -  you don't need a lot of experience on computers to use them
--  research shows they work 
+-  research shows they work
 -  you can use them any time
 
-Your GP can refer you for computerised CBT or you can refer yourself at: 
+Your GP can refer you for computerised CBT or you can refer yourself at:
 
 - [Big White Wall](http://www.mind.org.uk/information-support/drugs-and-treatments/talking-treatments/types-of-therapy/#.VmBFKHbhCM8)
 - [Buddy](https://www.buddyapp.co.uk/undergoing-therapy)
