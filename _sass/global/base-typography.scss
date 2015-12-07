@@ -16,7 +16,7 @@ body {
   }
 }
 
-.heading-xxlarge {
+h1 {
   font-weight: 700;
   font-size: map-get($type-small, xxlarge);
   line-height: map-get($type-small, leading-xxlarge);
@@ -29,7 +29,7 @@ body {
   }
 }
 
-h1 {
+.heading-xlarge {
   font-weight: 700;
   font-size: map-get($type-small, xlarge);
   line-height: map-get($type-small, leading-xlarge);
