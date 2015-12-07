@@ -8,9 +8,9 @@
     {% if page.title %}
       {{ page.title }} -
     {% endif %}
-    {% if page.condition %}
+    {% if page.condition %}{% if page.nav_order %}
       {{ page.condition }} -
-    {% endif %}
+    {% endif %}{% endif %}
     NHS.UK
   </title>
 
