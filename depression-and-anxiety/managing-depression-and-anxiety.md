@@ -29,11 +29,11 @@ Your GP might be able to refer to:
 - [Mind](http://www.mind.org.uk/information-support/types-of-mental-health-problems/depression)
 - [Depression Alliance](http://www.depressionalliance.org/how-we-can-help/)
  
-The mental health charity Mind has a [full list of organisations to contact if you have anxiety](http://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/useful-contacts/#.Vk8P9WThCRb)
+The mental health charity Mind has a [full list of organisations to contact if you have anxiety.](http://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/useful-contacts/#.Vk8P9WThCRb)
  
 Mind also runs the [Mind blog](http://www.mind.org.uk/information-support/your-stories.aspx) where people post their experiences.
  
-##Being active for 20 minute a day helps
+##Being active for 20 minutes a day helps
 20 minutes of exercise a day can help with your depression or anxiety.
  
 Exercise releases a chemical in your brain called endorphins which lifts your mood.
@@ -76,12 +76,12 @@ Every day try to take a moment to stand back and notice:
 
 Try not to think of anything else. 
 
-This is called 'mindfulness'. It can help you notice signs of stress, anxiety or depression earlier and deal with them better.
+This is called ‘mindfulness’. It can help you notice signs of stress, anxiety or depression earlier and deal with them better.
   
 Things like yoga, breathing exercises and meditation can also help you being more aware. 
  
 ##What you eat can affect how you feel
- When your body is healthy, it helps you feel better about yourself. 
+When your body is healthy, it helps you feel better about yourself.
  
 Try not to skip meals drink lots of fluids (preferably water). Dehydration can affect your mood.
  
