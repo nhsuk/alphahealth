@@ -1,0 +1,33 @@
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.condition-images {
+  @extend %contain-floats;
+  margin: 36px 0 20px 0;
+
+  figure {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    max-width: 308px;
+    box-sizing: border-box;
+    margin-right: 8px;
+    margin-bottom: 16px;
+    padding: 6px;
+    background-color: tint($blue, 90%);
+  }
+
+  figcaption {
+    font-size: map-get($type-small, small);
+    line-height: map-get($type-small, leading-small);
+
+    padding: 12px 0 0 0;
+
+    @include media(large) {
+      font-size: map-get($type-large, small);
+      line-height: map-get($type-large, leading-small);
+    }
+  }
+}
