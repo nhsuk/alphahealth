@@ -14,7 +14,7 @@ It’s very common for people to see their GP about constant low mood, depressio
   <p>If you need help now, call 111 or the Samaritans on <span class="nowrap">08457 90 90 90</span>.</p>
 </div>
 
-You can also [see a therapist privately](/depression-and-anxiety/getting-therapy) without going through your GP or talk to someone at one of the [depression and anxiety charities](/depression-and-anxiety/getting-therapy).
+You can also [see a therapist privately](/depression-and-anxiety/getting-therapy) without going through your GP or talk to someone at one of the [depression and anxiety charities.](/depression-and-anxiety/getting-therapy)
 
 ###What happens in your GP appointment
 Your GP will discuss your symptoms with you and recommend what you can do next.

@@ -22,13 +22,13 @@ Diabetes medicines help lower the amount of glucose in your blood.
   </p>
 </div>
 
-You’ll usually be offered a medicine called metformin first. If your blood glucose levels haven’t lowered within 3 months, other medicines may be recommended. 
+You’ll usually be offered a medicine called metformin first. If your blood glucose levels haven’t lowered within 3 months, other medicines may be recommended.
 
 Over time, it’s common to need a combination of medicines.  Your GP or diabetes nurse will recommend the medicines most suitable for you.
 
-It’s not common for people with type 2 diabetes to need insulin. It's usually only needed when other medicines no longer control your blood sugar. 
+It’s not common for people with type 2 diabetes to need insulin. It's usually only needed when other medicines no longer control your blood sugar.
 
-Diabetes UK has more information about [taking medicines for type 2 diabetes](https://www.diabetes.org.uk/Guide-to-diabetes/What-is-diabetes/Diabetes-treatments/).
+Diabetes UK has more information about [taking medicines for type 2 diabetes.](https://www.diabetes.org.uk/Guide-to-diabetes/What-is-diabetes/Diabetes-treatments/)
 
 ##Taking your medicine##
 Your GP or diabetes nurse will explain how to take your medication and how to store it. If you need to inject insulin or a medicine called gliptins, they’ll show you how to do it.

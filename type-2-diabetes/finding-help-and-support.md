@@ -12,7 +12,7 @@ There is a lot of information and support available for type 2 diabetes. Some of
 
 Type 2 diabetes type means you have too much glucose in your blood. It happens when your body doesn’t produce enough of the hormone insulin, or when your cells don’t react to insulin.  
 
-You have type 2 diabetes for life.  Controlling your blood sugar levels with medicines, diet and exercise, should allow you to lead a healthy life. 
+You have type 2 diabetes for life.  Controlling your blood sugar levels with medicines, diet and exercise, should allow you to lead a healthy life.
 
 Information about what diabetes is and monitoring your condition:
 
@@ -24,7 +24,7 @@ Information about what diabetes is and monitoring your condition:
 You have to [tell the DVLA that you have type 2 diabetes](https://www.gov.uk/diabetes-driving) if you're on insulin.  You can be fined if you don’t.
 
 ##Learn about managing diabetes
-There are free education courses to help you learn more about and manage your type 2 diabetes. 
+There are free education courses to help you learn more about and manage your type 2 diabetes.
 
 They:
 
@@ -37,7 +37,7 @@ Your GP will need to refer you. You can phone your GP surgery to get a referral 
 Read more information about [education courses for type 2 diabetes](http://www.desmond-project.org.uk/newlydiagnosedandfoundationmodules-278.html)
 
 ##Support groups for type 2 diabetes
-The charity Diabetes UK runs [local support groups](https://www.diabetes.org.uk/How_we_help/Local_support_groups/).
+The charity Diabetes UK runs [local support groups.](https://www.diabetes.org.uk/How_we_help/Local_support_groups/)
 
 They can help with things like managing your diabetes on a daily basis, diet, exercise or dealing with emotional problems like depression. They’re a place to talk and find out how others live with the condition.
 
@@ -51,7 +51,7 @@ They can help with things like managing your diabetes on a daily basis, diet, ex
 - [Diabetes Chat](http://www.diabetes.co.uk/diabetes-chat/) - offers scheduled chats with healthcare professionals or just the chance to talk to others
 
 ##Telling others##
-Telling friends and family you have diabetes type 2 can be difficult. 
+Telling friends and family you have diabetes type 2 can be difficult.
 
 However, it can help for certain people to know you have diabetes:
 
