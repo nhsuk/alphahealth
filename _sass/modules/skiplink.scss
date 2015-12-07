@@ -1,0 +1,24 @@
+#skiplink-container {
+  background-color: tint($yellow, 70%);
+
+  & > div {
+    @extend .block-container;
+  }
+
+  a {
+    position: absolute;
+    left: -999em;
+    display: inline-block;
+    padding: 6px;
+    font-size: map-get($type-small, small);
+
+    &:focus {
+      position: static;
+      outline: 0;
+    }
+
+    @include media(large) {
+      font-size: map-get($type-large, small);
+    }
+  }
+}

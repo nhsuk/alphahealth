@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="block-container">
+<main id="content" class="block-container" role="main" tabindex="-1">
 
   {% if page.nav_order %}
     <nav class="condition-navigation">
@@ -24,11 +24,9 @@ layout: default
     </nav>
   {% endif %}
 
-  <main id="content">
-    <div class="content-measure">
-      {{ content }}
-    </div>
-  </main>
+  <div class="content-measure">
+    {{ content }}
+  </div>
 
   {% if page.nav_order %}
     <nav class="pagination">
@@ -60,4 +58,4 @@ layout: default
     </nav>
   {% endif %}
 
-</div>
+</main>

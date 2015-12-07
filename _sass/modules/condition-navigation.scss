@@ -1,4 +1,5 @@
 .condition-navigation {
+
   @extend %contain-floats;
   @extend .content-measure;
 
@@ -37,6 +38,6 @@
   }
 }
 
-.condition-navigation + #content h1 {
+.condition-navigation + .content-measure h1 {
   @extend .heading-xlarge;
 }
