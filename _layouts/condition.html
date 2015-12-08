@@ -5,7 +5,7 @@ layout: default
 <main id="content" class="block-container" role="main" tabindex="-1">
 
   {% if page.nav_order %}
-    <nav class="condition-navigation">
+    <nav class="condition-navigation" role="navigation">
       <h1>{{ page.condition }}</h1>
 
       <ol>
@@ -29,7 +29,7 @@ layout: default
   </div>
 
   {% if page.nav_order %}
-    <nav class="pagination">
+    <nav class="pagination" role="navigation">
       {% assign next_page_index = this_page_index | plus: 1 %}
       {% assign next_page = condition_pages[next_page_index] %}
 
