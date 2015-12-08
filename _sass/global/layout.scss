@@ -80,5 +80,14 @@ body {
 
 // Main content to have approx 65-75 character width
 .content-measure {
-  max-width: 34em;
+  h1, h2, h3, h4, h5, h6,
+  ol, ul, dl,
+  p,
+  .notice {
+    max-width: map-get($type-small, body) * 34;
+
+    @include media(large) {
+      max-width: map-get($type-large, body) * 34;
+    }
+  }
 }
