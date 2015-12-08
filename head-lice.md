@@ -7,20 +7,22 @@ condition: Head lice
 
 ##Check if you have them
 
-Head lice are small insects, 3 to 3 mm long. 
+<div class="condition-images">
+  <figure>
+    <img src="/public/images/conditions/placeholder.png" alt="lice" />
+    <figcaption>Head lice are small insects, 3 to 3 mm long.</figcaption>
+  </figure><!--
+  --><figure>
+    <img src="/public/images/conditions/placeholder.png" alt="eggs" />
+    <figcaption>Head lice eggs are yellow or brown. If you see these you’ll know that you have head lice.</figcaption>
+  </figure><!--
+  --><figure>
+    <img src="/public/images/conditions/placeholder.png" alt="nits" />
+    <figcaption>The empty shells of the eggs after they hatch stay in the hair. These are called nits.</figcaption>
+  </figure>
+</div>
 
-![lice](/public/images/conditions/placeholder.png)
-
-Head lice eggs are yellow or brown. If you see these you’ll know that you have head lice. 
-
-![eggs](/public/images/conditions/placeholder.png)
-
-The empty shells of the eggs after they hatch stay in the hair. These are called nits.
-
-![nits](/public/images/conditions/placeholder.png)
-
-
-Head lice and their eggs are: 
+Head lice and their eggs are:
 
 - attached to the hair
 - sometimes itchy
@@ -28,7 +30,7 @@ Head lice and their eggs are:
 
 As soon as you spot head lice you should treat them. You can do this without seeing your GP.
 
-You can use sprays and lotions to get rid of headlice or a special comb if you don’t want to use chemicals. 
+You can use sprays and lotions to get rid of headlice or a special comb if you don’t want to use chemicals.
 
 <div class="notice" role="note" aria-label="Information">
   <p>
@@ -45,28 +47,28 @@ These lotions and sprays kill head lice in any kind of hair, including afro hair
 - Full Marks Solution (leave for 10 minutes)
 - solutions with Malathion (leave overnight)
 
-The head lice will die and fall out within a day. These products come with a comb to comb out the dead lice. 
+The head lice will die and fall out within a day. These products come with a comb to comb out the dead lice.
 
-You should repeat treatment after a week, to kill lice that hatch from eggs already laid in the hair. 
+You should repeat treatment after a week, to kill lice that hatch from eggs already laid in the hair.
 
-You can get them at the pharmacy, supermarket or online. 
+You can get them at the pharmacy, supermarket or online.
 
-##Use a special comb if you don’t want to use chemicals 
-If you’re allergic or don’t want to use chemicals you can use a comb with very fine teeth and comb the head lice out. It works on any kind of hair. 
+##Use a special comb if you don’t want to use chemicals
+If you’re allergic or don’t want to use chemicals you can use a comb with very fine teeth and comb the head lice out. It works on any kind of hair.
 
-It’s sold as a Bug Buster comb. You can get it at the pharmacy or online. 
+It’s sold as a Bug Buster comb. You can get it at the pharmacy or online.
 
 ##Check everyone in the house
-Fully grown head lice can crawl from one head to another. 
+Fully grown head lice can crawl from one head to another.
 
-Get a comb with very fine teeth (detection comb) at the pharmacy or online and comb through everyone’s hair in the house to check if they have head lice. 
+Get a comb with very fine teeth (detection comb) at the pharmacy or online and comb through everyone’s hair in the house to check if they have head lice.
 
-You should let school know if your children have head lice because other children in the class might have them too without their parents knowing. 
+You should let school know if your children have head lice because other children in the class might have them too without their parents knowing.
 
 ##You can’t prevent head lice
-There’s nothing you can do to prevent head lice.  However, if you know someone has head lice or is treated for them, avoid head to head contact. 
+There’s nothing you can do to prevent head lice.  However, if you know someone has head lice or is treated for them, avoid head to head contact.
 
-If you’re worried about head lice you can run a detection comb (see above) through your hair to check if you have any. 
+If you’re worried about head lice you can run a detection comb (see above) through your hair to check if you have any.
 
 <div class="notice" role="note" aria-label="Information">
   <p>
