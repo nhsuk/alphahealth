@@ -39,6 +39,11 @@ body {
   }
 }
 
+#content {
+  // prevent margins leaking (helps with skiplink)
+  padding-top: 1px;
+}
+
 #global-footer {
   background-color: $black;
   color: tint($black, 70%);
