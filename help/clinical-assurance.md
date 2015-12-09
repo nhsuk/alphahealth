@@ -3,9 +3,9 @@ layout: help
 title: Clinical assurance
 ---
 
-# How we make sure NHS alpha content is medically sound
+# How we make sure NHS.UK alpha content is medically sound
 
-We have a GP in the NHS alpha team who reads and approves all content before
+We have a GP in the NHS.UK alpha team who reads and approves all content before
 it’s published.
 
 Where knowledge of specialist experience has been required, we’ve consulted:
