@@ -2,6 +2,13 @@
 
 # See https://github.com/gerhard/deliver for details
 
+if [ "" = "${AWS_ACCESS_KEY}" ] || [ "" = "${AWS_SECRET_KEY}" ]; then
+    echo
+    echo "Error: Please provide AWS_ACCESS_KEY and AWS_SECRET_KEY environment variables."
+    exit 2
+fi
+
+
 STRATEGY="s3"
 
 case "${NHSALPHA_ENVIRONMENT}" in
