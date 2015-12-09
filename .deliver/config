@@ -9,6 +9,44 @@ if [ "" = "${AWS_ACCESS_KEY}" ] || [ "" = "${AWS_SECRET_KEY}" ]; then
 fi
 
 
+# See http://stackoverflow.com/a/2659808 for these git plumbing commands
+
+exit_with_unclean_git_message() {
+    echo
+    echo "ERROR: Your git repository is not clean - you have unstaged or uncommitted changes."
+    echo
+    git status
+    exit 2
+}
+
+assert_no_staged_uncommitted_files() {
+    git diff-index --quiet --cached HEAD
+
+    if [ "0" != $? ]; then
+        exit_with_unclean_git_message
+    fi
+}
+
+assert_no_unstaged_files() {
+    git diff-files --quiet
+
+    if [ "0" != $? ]; then
+        exit_with_unclean_git_message
+    fi
+}
+
+assert_no_untracked_unignored_files() {
+    test -z "$(git ls-files --exclude-standard --others)"
+
+    if [ "0" != $? ]; then
+        exit_with_unclean_git_message
+    fi
+}
+
+assert_no_staged_uncommitted_files
+assert_no_unstaged_files
+assert_no_untracked_unignored_files
+
 STRATEGY="s3"
 
 case "${NHSALPHA_ENVIRONMENT}" in
