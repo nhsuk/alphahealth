@@ -5,6 +5,10 @@ condition: Warts
 
 #Warts
 
+Warts are harmless although they can spread if scratched. They often go away on
+their own although you may be able to speed this up with certain creams.
+{:.lede}
+
 ##Check if you have them
 
 <div class="condition-images">

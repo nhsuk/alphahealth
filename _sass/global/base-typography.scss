@@ -89,6 +89,16 @@ p {
   }
 }
 
+.lede {
+  font-size: map-get($type-small, medium);
+  line-height: map-get($type-small, leading-medium);
+
+  @include media(large) {
+    font-size: map-get($type-large, medium);
+    line-height: map-get($type-large, leading-medium) + 2px;
+  }
+}
+
 ul {
   list-style-type: disc;
   list-style-position: outside;
