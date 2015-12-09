@@ -29,4 +29,4 @@ Deployment of this app to alpha.nhs.uk requires:
 The access key and secret key are provided as environment variables when
 running the command to deploy:
 
-    AWS_ACCESS_KEY=… AWS_SECRET_KEY=… deliver --verbose
+    AWS_ACCESS_KEY=… AWS_SECRET_KEY=… NHSALPHA_ENVIRONMENT=staging deliver --verbose
