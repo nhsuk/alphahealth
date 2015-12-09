@@ -1,0 +1,40 @@
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.condition-images {
+  @extend %contain-floats;
+  margin: 36px 0 20px 0;
+
+  @include media(707px) {
+    text-align: left;
+  }
+
+  figure {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+    margin: 0 auto 18px auto;
+
+    @include media(707px) {
+      display: inline-block;
+      vertical-align: top;
+      margin: 0 18px 18px 0;
+    }
+  }
+
+  figcaption {
+    font-size: map-get($type-small, small);
+    line-height: map-get($type-small, leading-small);
+
+    padding: 6px 6px 12px 6px;
+    background-color: tint($blue, 95%);
+
+    @include media(large) {
+      font-size: map-get($type-large, small);
+      line-height: map-get($type-large, leading-small);
+    }
+  }
+}
