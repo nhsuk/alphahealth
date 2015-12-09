@@ -3,7 +3,21 @@
 # See https://github.com/gerhard/deliver for details
 
 STRATEGY="s3"
-S3_BUCKET="alpha.nhs.uk"
+
+case "${NHSALPHA_ENVIRONMENT}" in
+    'production' )
+        S3_BUCKET="alpha.nhs.uk"
+        ;;
+    'staging' )
+        S3_BUCKET="alpha-staging.nhs.uk"
+        ;;
+    *)
+        echo
+        echo "Error: Please provide NHSALPHA_ENVIRONMENT=staging|production"
+        exit 2
+        ;;
+esac
+
 S3CMD_OPTIONS="--access_key $AWS_ACCESS_KEY --secret_key $AWS_SECRET_KEY --config .deliver/s3cfg sync --delete-removed"
 
 # Generate the site with jekyll before delivering
