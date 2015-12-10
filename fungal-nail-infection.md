@@ -11,11 +11,11 @@ condition: Fungal nail infection
     <figcaption>Fungal infections usually start at the edge of the nail.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="Infection spread to the middle of the toe" />
+    <img src="/public/images/conditions/fungal-nail-infection/spread-to-the-middle.jpg" alt="Infection spread to the middle of the toe" />
     <figcaption>Infections often then spread to the middle. The nail becomes discoloured and lifts off.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="Brittle nail with pieces missing" />
+    <img src="/public/images/conditions/fungal-nail-infection/brittle.jpg" alt="Brittle nail with pieces missing" />
     <figcaption>The nail becomes brittle and pieces can fall off.</figcaption>
   </figure>
 </div>

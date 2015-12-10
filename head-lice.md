@@ -17,7 +17,7 @@ condition: Head lice
     <figcaption>Head lice eggs are yellow or brown. If you see these you’ll know that you have head lice.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="nits" />
+    <img src="/public/images/conditions/head-lice/empty-eggs.jpg" alt="nits" />
     <figcaption>The empty shells of the eggs after they hatch stay in the hair. These are called nits.</figcaption>
   </figure>
 </div>
