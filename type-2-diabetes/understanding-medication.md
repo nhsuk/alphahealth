@@ -1,7 +1,7 @@
 ---
 title: Understanding medication
 condition: Type 2 diabetes
-nav_order: 4
+nav_order: 3
 ---
 
 #Understanding medication#
