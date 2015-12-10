@@ -9,11 +9,11 @@ condition: Warts
 
 <div class="condition-images">
   <figure>
-    <img src="/public/images/conditions/placeholder.png" alt="Wart" />
+    <img src="/public/images/conditions/warts/standard-wart.jpg" alt="Wart" />
     <figcaption>Warts feel firm and rough like a cauliflower. They can appear on palms, knuckles, knees and fingers.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="Verruca" />
+    <img src="/public/images/conditions/warts/verruca.jpg" alt="Verruca" />
     <figcaption>Warts on your feet are known as verrucas. They have tiny black dots under the hard skin and can be painful - like standing on a needle.</figcaption>
   </figure><!--
   --><figure>
@@ -21,7 +21,7 @@ condition: Warts
     <figcaption>Some warts are round, flat and sometimes yellow (plane warts). You might have many of them.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="Mosaic warts" />
+    <img src="/public/images/conditions/warts/cluster.jpg" alt="Mosaic warts" />
     <figcaption>Clusters of warts, spread over an area of skin (mosaic warts) are common on hands and feet.</figcaption>
   </figure>
 </div>
