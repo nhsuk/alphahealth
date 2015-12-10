@@ -13,11 +13,8 @@
     <h2>Conditions</h2>
 
     <ul>
-      {% assign condition_pages = site.pages | sort: "condition" %}
-      {% for p in condition_pages %}
-        {% if p.condition %}{% unless p.nav_order > 1 %}
+      {% for p in page.condition_pages %}
           <li><a href="{{ p.url }}">{{ p.condition }}</a></li>
-        {% endunless %}{% endif %}
       {% endfor %}
     </ul>
 
