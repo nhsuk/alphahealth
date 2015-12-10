@@ -9,11 +9,11 @@ condition: Warts
 
 <div class="condition-images">
   <figure>
-    <img src="/public/images/conditions/placeholder.png" alt="Wart" />
+    <img src="/public/images/conditions/warts/standard-wart.jpg" alt="Wart" />
     <figcaption>Warts feel firm and rough like a cauliflower. They can appear on palms, knuckles, knees and fingers.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="Verruca" />
+    <img src="/public/images/conditions/warts/verruca.jpg" alt="Verruca" />
     <figcaption>Warts on your feet are known as verrucas. They have tiny black dots under the hard skin and can be painful - like standing on a needle.</figcaption>
   </figure><!--
   --><figure>
