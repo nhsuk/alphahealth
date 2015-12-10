@@ -10,7 +10,7 @@ condition: Head lice
 <div class="condition-images">
   <figure>
     <img src="/public/images/conditions/placeholder.png" alt="lice" />
-    <figcaption>Head lice are small insects, 3 to 3 mm long.</figcaption>
+    <figcaption>Head lice are small insects, up to 3 mm long.</figcaption>
   </figure><!--
   --><figure>
     <img src="/public/images/conditions/placeholder.png" alt="eggs" />
