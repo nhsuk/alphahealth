@@ -21,7 +21,7 @@ condition: Warts
     <figcaption>Some warts are round, flat and sometimes yellow (plane warts). You might have many of them.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="Mosaic warts" />
+    <img src="/public/images/conditions/warts/cluster.jpg" alt="Mosaic warts" />
     <figcaption>Clusters of warts, spread over an area of skin (mosaic warts) are common on hands and feet.</figcaption>
   </figure>
 </div>
