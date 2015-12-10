@@ -33,7 +33,7 @@ It’s most common on your chest and tummy but can appear on your face, eyes and
 
 ##When to see your GP
 
-Speak to you GP if you suspect shingles, particularly if:
+Speak to your GP if you suspect shingles, particularly if:
 
 - it’s on your face and eyes
 - your child has it
