@@ -25,15 +25,15 @@ It may be a few days before the ulcers and rash appear.
 
 <div class="condition-images">
   <figure>
-    <img src="/public/images/conditions/placeholder.png" alt="mouth ulcers" />
+    <img src="/public/images/conditions/hand-foot-and-mouth-disease/mouth-ulcers.jpg" alt="mouth ulcers" />
     <figcaption>Sores and ulcers appear in the mouth and on the tongue. These can be painful and may affect eating and drinking.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="rash on hands and feet" />
+    <img src="/public/images/conditions/hand-foot-and-mouth-disease/rash.jpg" alt="rash on hands and feet" />
     <figcaption>A rash usually also appears on the hands and feet. The spots are often red before developing into a blister.</figcaption>
   </figure><!--
   --><figure>
-    <img src="/public/images/conditions/placeholder.png" alt="blisters" />
+    <img src="/public/images/conditions/hand-foot-and-mouth-disease/blisters.jpg" alt="blisters" />
     <figcaption>The blisters are grey and they can be painful.</figcaption>
   </figure>
 </div>
