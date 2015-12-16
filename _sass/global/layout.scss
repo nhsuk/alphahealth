@@ -91,3 +91,9 @@ body {
     }
   }
 }
+
+// use for items that need to ape the content measure at class level
+// i.e. pagination block, condition-navigation
+.measure {
+  max-width: 34em;
+}

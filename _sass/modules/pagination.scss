@@ -1,6 +1,6 @@
 .pagination {
   @extend %contain-floats;
-  @extend .content-measure;
+  @extend .measure;
 
   margin: 48px 0;
   padding-top: 18px;
