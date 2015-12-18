@@ -24,17 +24,17 @@ The first sign of hand, foot and mouth disease can be:
 It may be a few days before the ulcers and rash appear.
 
 <div class="condition-images">
-  <figure>
+  <figure role="group" aria-labelledby="condition-image-caption-1">
     <img src="/public/images/conditions/hand-foot-and-mouth-disease/mouth-ulcers.jpg" alt="mouth ulcers" />
-    <figcaption>Sores and ulcers appear in the mouth and on the tongue. These can be painful and may affect eating and drinking.</figcaption>
+    <figcaption id="condition-image-caption-1">Sores and ulcers appear in the mouth and on the tongue. These can be painful and may affect eating and drinking.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-2">
     <img src="/public/images/conditions/hand-foot-and-mouth-disease/rash.jpg" alt="rash on hands and feet" />
-    <figcaption>A rash usually also appears on the hands and feet. The spots are often red before developing into a blister.</figcaption>
+    <figcaption id="condition-image-caption-2">A rash usually also appears on the hands and feet. The spots are often red before developing into a blister.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-3">
     <img src="/public/images/conditions/hand-foot-and-mouth-disease/blisters.jpg" alt="blisters" />
-    <figcaption>The blisters are grey and they can be painful.</figcaption>
+    <figcaption id="condition-image-caption-3">The blisters are grey and they can be painful.</figcaption>
   </figure>
 </div>
 
@@ -63,7 +63,7 @@ Speak to your GP if:
 
 It’s best to avoid close contact with anyone with hand, foot and mouth disease.
 
-Individual schools and nurseries may have their own guidance for when your child can return so it's best to check with them. 
+Individual schools and nurseries may have their own guidance for when your child can return so it's best to check with them.
 
 Generally, keep them away from school or nursery while they are feeling unwell.  There's no need to keep them off until the blisters have healed.  
 

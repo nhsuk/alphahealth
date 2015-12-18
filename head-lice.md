@@ -8,17 +8,17 @@ condition: Head lice
 ##Check if you have them
 
 <div class="condition-images">
-  <figure>
+  <figure role="group" aria-labelledby="condition-image-caption-1">
     <img src="/public/images/conditions/placeholder.png" alt="lice" />
-    <figcaption>Head lice are small insects, up to 3 mm long.</figcaption>
+    <figcaption id="condition-image-caption-1">Head lice are small insects, up to 3 mm long.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-2">
     <img src="/public/images/conditions/placeholder.png" alt="eggs" />
-    <figcaption>Head lice eggs are yellow or brown. If you see these you’ll know that you have head lice.</figcaption>
+    <figcaption id="condition-image-caption-2">Head lice eggs are yellow or brown. If you see these you’ll know that you have head lice.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-3">
     <img src="/public/images/conditions/head-lice/empty-eggs.jpg" alt="nits" />
-    <figcaption>The empty shells of the eggs after they hatch stay in the hair. These are called nits.</figcaption>
+    <figcaption id="condition-image-caption-3">The empty shells of the eggs after they hatch stay in the hair. These are called nits.</figcaption>
   </figure>
 </div>
 

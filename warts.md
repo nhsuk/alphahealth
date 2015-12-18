@@ -8,21 +8,21 @@ condition: Warts
 ##Check if you have them
 
 <div class="condition-images">
-  <figure>
+  <figure role="group" aria-labelledby="condition-image-caption-1">
     <img src="/public/images/conditions/warts/standard-wart.jpg" alt="Wart" />
-    <figcaption>Warts feel firm and rough like a cauliflower. They can appear on palms, knuckles, knees and fingers.</figcaption>
+    <figcaption id="condition-image-caption-1">Warts feel firm and rough like a cauliflower. They can appear on palms, knuckles, knees and fingers.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-2">
     <img src="/public/images/conditions/warts/verruca.jpg" alt="Verruca" />
-    <figcaption>Warts on your feet are known as verrucas. They have tiny black dots under the hard skin and can be painful - like standing on a needle.</figcaption>
+    <figcaption id="condition-image-caption-2">Warts on your feet are known as verrucas. They have tiny black dots under the hard skin and can be painful - like standing on a needle.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-3">
     <img src="/public/images/conditions/placeholder.png" alt="Plane warts" />
-    <figcaption>Some warts are round, flat and sometimes yellow (plane warts). You might have many of them.</figcaption>
+    <figcaption id="condition-image-caption-3">Some warts are round, flat and sometimes yellow (plane warts). You might have many of them.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-4">
     <img src="/public/images/conditions/warts/cluster.jpg" alt="Mosaic warts" />
-    <figcaption>Clusters of warts, spread over an area of skin (mosaic warts) are common on hands and feet.</figcaption>
+    <figcaption id="condition-image-caption-4">Clusters of warts, spread over an area of skin (mosaic warts) are common on hands and feet.</figcaption>
   </figure>
 </div>
 

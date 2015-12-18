@@ -15,17 +15,17 @@ The first sign of shingles can be:
 It may be a few days before the rash appears.
 
 <div class="condition-images">
-  <figure>
+  <figure role="group" aria-labelledby="condition-image-caption-1">
     <img src="/public/images/conditions/shingles/shingles-rash.jpg" alt="shingles rash" />
-    <figcaption>The shingles rash appears as red blotches on your skin, on one side of your body only. If the rash is on both the left and right of your body, it’s unlikely to be shingles.</figcaption>
+    <figcaption id="condition-image-caption-1">The shingles rash appears as red blotches on your skin, on one side of your body only. If the rash is on both the left and right of your body, it’s unlikely to be shingles.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-2">
     <img src="/public/images/conditions/shingles/itchy-blisters.jpg" alt="itchy blisters" />
-    <figcaption>The blotches become itchy blisters which ooze fluid. A few days later the blisters dry out and scab.</figcaption>
+    <figcaption id="condition-image-caption-2">The blotches become itchy blisters which ooze fluid. A few days later the blisters dry out and scab.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-3">
     <img src="/public/images/conditions/shingles/rash-band.jpg" alt="rash forming a band" />
-    <figcaption>The rash can form a band that only appears on one side of your body.</figcaption>
+    <figcaption id="condition-image-caption-3">The rash can form a band that only appears on one side of your body.</figcaption>
   </figure>
 </div>
 
