@@ -5,6 +5,9 @@ condition: Head lice
 
 #Head lice
 
+Treat head lice at home with lotion, spray and a special comb from the pharmacy – no need to see your GP.
+{:.lede}
+
 ##Check if you have them
 
 <div class="condition-images">
