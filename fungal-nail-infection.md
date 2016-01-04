@@ -6,17 +6,17 @@ condition: Fungal nail infection
 #Fungal nail infection
 
 <div class="condition-images">
-  <figure>
+  <figure role="group" aria-labelledby="condition-image-caption-1">
     <img src="/public/images/conditions/fungal-nail-infection/start-at-the-edge.jpg" alt="Fungal infection at the edge of the nail" />
-    <figcaption>Fungal infections usually start at the edge of the nail.</figcaption>
+    <figcaption id="condition-image-caption-1">Fungal infections usually start at the edge of the nail.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-2">
     <img src="/public/images/conditions/fungal-nail-infection/spread-to-the-middle.jpg" alt="Infection spread to the middle of the toe" />
-    <figcaption>Infections often then spread to the middle. The nail becomes discoloured and lifts off.</figcaption>
+    <figcaption id="condition-image-caption-2">Infections often then spread to the middle. The nail becomes discoloured and lifts off.</figcaption>
   </figure><!--
-  --><figure>
+  --><figure role="group" aria-labelledby="condition-image-caption-3">
     <img src="/public/images/conditions/fungal-nail-infection/brittle.jpg" alt="Brittle nail with pieces missing" />
-    <figcaption>The nail becomes brittle and pieces can fall off.</figcaption>
+    <figcaption id="condition-image-caption-3">The nail becomes brittle and pieces can fall off.</figcaption>
   </figure>
 </div>
 
