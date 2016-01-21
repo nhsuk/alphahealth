@@ -24,7 +24,6 @@ The charity Diabetes UK has lots of  information on:
 - [food for people with diabetes](https://www.diabetes.org.uk/Guide-to-diabetes/Enjoy-food/Food-and-diabetes/What-is-a-healthy-balanced-diet/)
 - [tips on eating with your family and eating out](https://www.diabetes.org.uk/Guide-to-diabetes/Enjoy-food/Eating-with-diabetes/)
 - [recipes for people with diabetes](https://www.diabetes.org.uk/Guide-to-diabetes/Enjoy-food/Cooking-for-people-with-diabetes/)
-- [food and nutrition message board](http://www.diabetes.co.uk/forum/category/food-nutrition-and-recipes.3/).
 
 <div class="notice" role="note" aria-label="Information">
   <p>
