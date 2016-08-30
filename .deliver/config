@@ -67,4 +67,4 @@ S3CMD_OPTIONS="--access_key $AWS_ACCESS_KEY --secret_key $AWS_SECRET_KEY --confi
 
 # Generate the site with jekyll before delivering
 ASSETS_DIR="_deploy/"
-GENERATE_CMD="jekyll build --destination $ASSETS_DIR && find $ASSETS_DIR -name '*.html' | sed -e 's/.html$//' | while read file; do mv \$file{.html,}; done"
+GENERATE_CMD="bundle exec jekyll build --destination $ASSETS_DIR && find $ASSETS_DIR -name '*.html' | sed -e 's/.html$//' | while read file; do mv \$file{.html,}; done"
